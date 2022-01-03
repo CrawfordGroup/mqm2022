@@ -1,0 +1,3 @@
+[submodule "themes/eventre-hugo"]
+	path = themes/eventre-hugo
+	url = git@github.com:CrawfordGroup/eventre-hugo.git
