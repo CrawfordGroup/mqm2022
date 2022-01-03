@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://examplesite.com"
+baseURL = "/"
 title = "Eventre Hugo | Event Management Template"
 theme = "eventre-hugo"
 # themesDir = "../.."
