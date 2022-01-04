@@ -1,7 +1,7 @@
 ################# Banner ###################
 banner:
   enable : true
-  heading : "Molecular Quantum Mechanics 2022"
+  heading : "MQM 2022"
   heading_2 : "26 June - July 1 2022 Virginia Tech Blacksburg, Virginia"
   timer:
     enable : true
