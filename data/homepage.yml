@@ -1,7 +1,7 @@
 ################# Banner ###################
 banner:
   enable : true
-  heading : "Business"
+  heading : "Molecular Quantum Mechanics"
   heading_2 : "Conference 2017"
   content : "02-05 July 2017 California"
   timer:

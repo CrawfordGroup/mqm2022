@@ -77,13 +77,23 @@ weight = 2
 
 [[menu.main]]
 name = "Program"
-url = "Program"
+url = "program"
 weight = 3
+
+[[menu.main]]
+name = "Registration"
+url = "registration"
+weight = 4
+
+[[menu.main]]
+name = "Abstracts"
+url = "abstracts"
+weight = 5
 
 [[menu.main]]
 name = "Contact"
 url = "contact"
-weight = 4
+weight = 6
 
 
 #################### default parameters ################################
@@ -107,7 +117,7 @@ preloader = "" # use jpg, png, svg or gif format.
 # Navigation button
 [params.navigation_button]
 enable = true
-label = "Buy Ticket"
+label = "Register"
 icon = "images/icon/ticket.png"
 link = "/"
 
@@ -124,13 +134,13 @@ mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074" # replace this co
 [params.map]
 enable = true
 gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ"
-map_latitude = "51.5223477"
-map_longitude = "-0.1622023"
+# map_latitude = "51.5223477"
+# map_longitude = "-0.1622023"
+map_latitude = "37.232397744678295"
+map_longitude = "-80.42571644484967"
 map_marker = "images/marker.png"
-name = "Docklands Convention"
-location = "Street Address, Location, <br>City, Country."
-phone = "[00] 000 000 000"
-link = "#"
+name = "Goodwin Hall, Virginia Tech"
+location = "635 Prices Fork Road, <br>Blacksburg, Virginia U.S.A."
 
 # cookies
 [params.cookies]
