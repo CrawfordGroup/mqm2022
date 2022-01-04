@@ -1,6 +1,6 @@
 ######################## default configuration ####################
 baseURL = "/"
-title = "Eventre Hugo | Event Management Template"
+title = "MQM 2022"
 theme = "eventre-hugo"
 # themesDir = "../.."
 # post pagination

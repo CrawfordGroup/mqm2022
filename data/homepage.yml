@@ -5,12 +5,12 @@ banner:
   heading_2 : "26 June - July 1 2022 Virginia Tech Blacksburg, Virginia"
   timer:
     enable : true
-    year : 2021
-    month : 9
-    day : 1
+    year : 2022
+    month : 6
+    day : 26
   button:
     enable : true
-    label : "get ticket now"
+    label : "Register"
     link : "#"
 
     
