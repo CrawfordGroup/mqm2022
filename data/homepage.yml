@@ -1,9 +1,8 @@
 ################# Banner ###################
 banner:
   enable : true
-  heading : "Molecular Quantum Mechanics"
-  heading_2 : "Conference 2017"
-  content : "02-05 July 2017 California"
+  heading : "Molecular Quantum Mechanics 2022"
+  heading_2 : "26 June - July 1 2022 Virginia Tech Blacksburg, Virginia"
   timer:
     enable : true
     year : 2021
