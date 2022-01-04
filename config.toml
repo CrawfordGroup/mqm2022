@@ -71,55 +71,19 @@ url = "/"
 weight = 1
 
 [[menu.main]]
-name = "About"
-url = "about"
+name = "Speakers"
+url = "speakers"
 weight = 2
 
 [[menu.main]]
-name = "Speaker"
-url = "speaker"
+name = "Program"
+url = "Program"
 weight = 3
 
 [[menu.main]]
-name = "Blog"
-url = "blog"
-weight = 4
-
-[[menu.main]]
-weight = 5
-name = "Pages"
-hasChildren = true
-
-  [[menu.main]]
-  parent = "Pages"
-  name = "Gallery"
-  url = "gallery"
-
-  [[menu.main]]
-  parent = "Pages"
-  name = "FAQ"
-  url = "faq"
-
-  [[menu.main]]
-  parent = "Pages"
-  name = "Pricing"
-  url = "pricing"
-
-  [[menu.main]]
-  parent = "Pages"
-  name = "Schedule"
-  url = "schedule"
-
-  [[menu.main]]
-  parent = "Pages"
-  name = "Testimonial"
-  url = "testimonial"
-  
-[[menu.main]]
 name = "Contact"
 url = "contact"
-weight = 6
-
+weight = 4
 
 
 #################### default parameters ################################
@@ -133,7 +97,7 @@ author = "Themefisher"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 # copyright
-copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
+copyright = "MQM 2022 and [Themefisher](https://themefisher.com/)"
 
 # Preloader
 [params.preloader]
