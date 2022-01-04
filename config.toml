@@ -6,13 +6,13 @@ theme = "eventre-hugo"
 # post pagination
 paginate = "3"
 # post excerpt
-summaryLength = "10"
+summaryLength = "80"
 # google analytics
 googleAnalytics = "" # example : UA-123-45
 # disqus short name
-disqusShortname = "themefisher-template" # get your shortname form here : https://disqus.com
+# disqusShortname = "themefisher-template" # get your shortname form here : https://disqus.com
 # disable language
-disableLanguages = [] # desable language from here
+# disableLanguages = [] # desable language from here
 
 
 ############################# Outputs ##############################
