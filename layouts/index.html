@@ -80,6 +80,55 @@
 <!--====  End of About  ====-->
 
 <!--==============================
+=            Honorees            =
+===============================-->
+{{ if site.Data.homepage.honorees.enable }}
+<section class="section honorees bg-honoree overlay-lighter">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <!-- Section Title -->
+        {{ with site.Data.homepage.honorees }}
+        <div class="section-title white">
+          <h3>{{.title | markdownify }}</h3>
+          <p>{{ .content | markdownify }}</p>
+        </div>
+        {{ end }}
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-lg-3 col-md-4 col-sm-6 align-self-center">
+      </div>
+      {{ range (where site.RegularPages "Section" "honoree") }}
+      <div class="col-lg-3 col-md-4 col-sm-6 align-self-center">
+        <!-- Speaker 1 -->
+        <div class="honoree-item">
+          <div class="image">
+            <img src="{{ .Params.image | absURL }}" alt="{{ .Title }}" class="img-fluid">
+            <div class="primary-overlay"></div>
+            <div class="socials">
+              <ul class="list-inline">
+                {{ range first 4 .Params.social }}
+                <li class="list-inline-item"><a href="{{.link | safeURL }}"><i class="fa {{.icon}}"></i></a></li>
+                {{ end }}
+              </ul>
+            </div>
+          </div>
+          <div class="content text-center">
+            <h5><a href="{{ .Permalink }}">{{.Title }}</a></h5>
+            <p>{{ .Params.Designation | markdownify }}</p>
+          </div>
+        </div>
+      </div>
+      {{end}}
+    </div>
+  </div>
+</section>
+{{end}}
+
+<!--====  End of Honorees  ====-->
+
+<!--==============================
 =            Speakers            =
 ===============================-->
 {{ if site.Data.homepage.speakers.enable }}
@@ -97,8 +146,10 @@
       </div>
     </div>
     <div class="row">
+      <div class="col-lg-3 col-md-4 col-sm-6 align-self-center">
+      </div>
       {{ range (where site.RegularPages "Section" "speaker") }}
-      <div class="col-lg-3 col-md-4 col-sm-6">
+      <div class="col-lg-3 col-md-4 col-sm-6 align-self-center">
         <!-- Speaker 1 -->
         <div class="speaker-item">
           <div class="image">

@@ -41,17 +41,22 @@ about:
     label : "Read more"
     link : "about"
 
-    
-################# Speaker ###################
-speakers:
+################# Honorees ###################
+honorees:
   enable : true
   title : "MQM 2022 Scientific Honorees"
   content : "MQM 2022 follows a long and distinguished tradition of
 conferences dedicated to honoring the achievements of leading scientists in
 the field and highlighting the superb science of the international quantum
-chemistry community. <br/> <br/> MQM 2022 in the U.S. will honor the work of Prof.
-Martin-Head-Gordon and Prof. Gustavo Scuseria."
-  # speaker items are coming from "content/speakers" folder
+chemistry community. <br/> <br/> MQM 2022 will honor the work of Prof.
+Gustavo Scuseria and Prof. Martin-Head-Gordon."
+
+################# Speaker ###################
+speakers:
+  enable : false
+  title : "MQM 2022 Speakers"
+  content : "Lots of speakers."
+  # speaker items are coming from "content/speaker" folder
 
 ###################### Tab ####################
 tab:

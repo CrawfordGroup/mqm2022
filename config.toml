@@ -72,7 +72,7 @@ weight = 1
 
 [[menu.main]]
 name = "Speakers"
-url = "speakers"
+url = "speaker"
 weight = 2
 
 [[menu.main]]
@@ -100,7 +100,7 @@ weight = 6
 [params]
 logo = "images/logo.png"
 logo_footer = "images/footer-logo.png"
-logo_width = "100px"
+logo_width = "167px"
 # Meta data
 description = "The 10th Triennial Molecuar Quantum Mechanics Conference"
 author = "Themefisher"
@@ -151,24 +151,10 @@ expire_days = 2
 [[params.social]]
 title = "facebook"
 icon = "fa-facebook" # fontawesome icon pack v4.7 https://fontawesome.com/v4.7.0/icons/
-link = "#"
+link = "https://www.facebook.com/search/top/?q=MQM2022"
 
 [[params.social]]
 title = "twitter"
 icon = "fa-twitter" # fontawesome icon pack v4.7 https://fontawesome.com/v4.7.0/icons/
-link = "#"
+link = "https://twitter.com/search?q=%23MQM2022"
 
-[[params.social]]
-title = "instagram"
-icon = "fa-instagram" # fontawesome icon pack v4.7 https://fontawesome.com/v4.7.0/icons/
-link = "#"
-
-[[params.social]]
-title = "github"
-icon = "fa-github" # fontawesome icon pack v4.7 https://fontawesome.com/v4.7.0/icons/
-link = "#"
-
-[[params.social]]
-title = "linkedin"
-icon = "fa-linkedin" # fontawesome icon pack v4.7 https://fontawesome.com/v4.7.0/icons/
-link = "#"

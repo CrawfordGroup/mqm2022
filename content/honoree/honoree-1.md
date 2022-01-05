@@ -1,7 +1,7 @@
 ---
-title : "Prof. Smith"
+title : "Prof. Martin Head-Gordon"
 page_header_bg : "images/background/page-title-bg.jpg"
-designation: "University of Trump"
+designation: "University of California, Berkeley<br/>Berkeley, California, USA"
 image: "images/conference/mhg.png"
 description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maiores, velit."
 draft : false
