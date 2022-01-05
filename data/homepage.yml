@@ -2,7 +2,9 @@
 banner:
   enable : true
   heading : "MQM 2022"
-  heading_2 : "26 June - July 1 2022 Virginia Tech Blacksburg, Virginia"
+  heading_2 : "The 10th Triennial Molecular Quantum Mechanics Conference<br>
+  Virginia Tech, Blacksburg, Virginia<br>
+  June 26th - July 1st, 2022"
   timer:
     enable : true
     year : 2022
@@ -16,7 +18,7 @@ banner:
     
 ################# About ###################
 about:
-  enable : true
+  enable : false
   title : "About The _Eventre_"
   image : "images/speakers/featured-speaker.jpg"
   content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusm tempor incididunt ut labore dolore magna aliqua enim ad minim veniam quis nostrud exercitation ullamco.
@@ -34,14 +36,14 @@ about:
     
 ################# Speaker ###################
 speakers:
-  enable : true
+  enable : false
   title : "Who _Speaking?_"
   content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit sed do eiusm tempor incididunt ut labore"
   # speaker items are coming from "content/speakers" folder
 
 ###################### Tab ####################
 tab:
-  enable : true
+  enable : false
   title : "Event Schedule"
   content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit sed do eiusm tempor incididunt ut labore"
   tablist:
@@ -188,7 +190,7 @@ tab:
 
 ############ Registration ####################
 registration:
-  enable : true
+  enable : false
   title : "Register to _Eventre_"
   content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit"
   form_action : "#" # works with formspree.io
@@ -211,7 +213,7 @@ registration:
 
 ############ Pricing ####################
 pricing:
-  enable : true
+  enable : false
   title : "Get _Ticket_"
   content : "Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusm tempor incididunt ut labore"
   pricing_table:
@@ -248,7 +250,7 @@ pricing:
 
 ############### Call to action ############
 call_to_action:
-  enable : true
+  enable : false
   title : "Get Ticket _Now!_"
   image : "images/speakers/speaker-ticket.png"
   content : "Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusmtempor incidi"
@@ -260,7 +262,7 @@ call_to_action:
 
 ############### Sponsors ##################
 sponsors:
-  enable : true
+  enable : false
   title : "Our _Sponsors_"
   content : "Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusm tempor incididunt ut labore dolore"
   button:

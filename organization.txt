@@ -1,0 +1,45 @@
+config.toml: top-level markup
+  theme selection
+  CSS and JS plugins
+  top-bar menu items
+  main logo and footer logo
+  copyright string at bottom
+  social media choices at bottom
+
+static/images:  All major images
+
+layouts/index.html: Definitions of major layout classes (banner, about,
+speakers, etc.) including conditionals for whether they appear at all.
+
+data/homepage.yml: markup for content of major layout elements (banner, etc.)
+
+content: ??
+
+
+assets/scss/_common.scss: Definition of various elements
+  .overlay*
+  h*.em
+  a:focus, hover
+  button
+  # references to static/images/background pics:
+  bg-banner-one
+  bg-banner-two
+  bg-about
+  bg-speaker
+  bg-timer
+  bg-schedule
+  bg-service
+  bg-registration
+  bg-ticket
+
+assets/scss/_typography.scss: 
+  Main font-size definition
+  font-size for h1, h2, etc. doesn't seem to be affected by changes here
+
+assets/scss/_variables.scss:
+  Font color and typeface definitions
+  
+assets/scss/pages: CSS for specific subpages
+
+assets/scss/pages/_home.scss: specific CSS for the homepage (including
+        header font sizes)
