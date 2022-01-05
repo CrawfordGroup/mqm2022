@@ -1,10 +1,10 @@
 ---
-title : "Timothy J. Lee"
+title : "Giulia Galli"
 page_header_bg : "images/background/page-title-bg.jpg"
-designation: "NASA Ames Laboratory"
+designation: "University of Chicago"
 image: ""
 description : ""
-link: "https://www.nasa.gov/content/timothy-lee"
+link: "https://chemistry.uchicago.edu/faculty/giulia-galli"
 draft : false
 social:
 - name: "Institute Website"

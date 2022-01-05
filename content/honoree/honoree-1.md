@@ -1,45 +1,52 @@
 ---
-title : "Prof. Martin Head-Gordon"
+title : "Prof. Gustavo Scuseria"
 page_header_bg : "images/background/page-title-bg.jpg"
-designation: "University of California, Berkeley<br/>Berkeley, California, USA"
-image: "images/conference/mhg.png"
+designation: "Rice University<br/>Houston, Texas, USA"
+image: "images/conference/ges.jpg"
 description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maiores, velit."
 draft : false
 social:
 - name: "Group Website"
   icon: "fa-sitemap"
-  link: "https://mhggroupberkeley.com/"
+  link: "http://scuseria.rice.edu/"
 - name: "University Website"
   icon: "fa-university"
-  link: "https://chemistry.berkeley.edu/faculty/chem/martin-head-gordon"
+  link: "https://profiles.rice.edu/faculty/gustavo-scuseria"
 - name: "Google Scholar"
   icon: "fa-google"
-  link: "https://scholar.google.com/citations?user=9Z52tZ4AAAAJ&hl=en"
+  link: "https://scholar.google.com/citations?user=6ZiRSwQAAAAJ&hl=en"
 
 personal_info:
   enable : true
   title : "Scientific Contributions"
-  content : "Linear scaling algorithms for density functional theory
-calculations; New methods for calculations of electronic excited states;
-Advances in electron correlation methods."
-
+  content : "Coupled cluster theory, linear scaling electronic structure
+methods, exchange-correlation functionals and range separation, quantum
+chemistry with periodic boundary conditions, time-dependent density
+functional theory, symmetry breaking and restoration, methods for strong
+correlation based on symmetry-projected states. Applications to fullerenes,
+carbon nanotubes, graphene nanoribbons, and solid-state heavy elements
+chemistry."
 
 skills:
   enable : true
   title : "Recent Awards"
   content : "<ul>
-<li>Sloan Fellowship (1995)
-<li>Packard Fellowship (1995)
-<li>Medal of the International Academy of Quantum Molecular Sciences (1998)
-<li>Miller Research Professor (2001–2)
-<li>Visiting Fellow, Clare Hall (2006)
-<li>Member of the International Academy of Quantum Molecular Sciences (2006)
-<li>Fellow of the American Academy of Arts and Sciences (2011)
-<li>Fellow of the American Chemical Society (2012)
-<li>Fellow of the National Academy of Science (2015)
-<li>Fellow of the Royal Society (2019)
+<li>Fellow of the American Association for the Advancement of
+Science (1999)
+<li>Creativity Extension Award from the US National Science
+Foundation (2002)
+<li>Fellow of the American Physical Society (2002)
+<li>John Simon Guggenheim Fellow (2003)
+<li>Thomson-Reuters ISI Highly Cited Researcher (2003)
+<li>Fellow of the Royal Society of Chemistry (2009)
+<li>Member of the International Academy of Quantum Molecular Sciences (2009)
+<li>Fellow of the American Chemical Society (2010)
+<li>Feynman Prize in Nanotechnology Theory (2010)
+<li>Humboldt Research Award (2015)
+<li>S F Boys – A Rahman Award of the Royal Society of Chemistry (2018).
 </ul>"
-
 ---
-Professor, Department of Chemistry, University of California<br/>
-Faculty Chemist, Chemical Sciences Division, Lawrence Berkeley National Laboratory
+Robert A. Welch Professor of Chemistry<br/>
+Professor of Physics & Astronomy<br/>
+Professor of Materials Science & Nano Engineering<br/>
+

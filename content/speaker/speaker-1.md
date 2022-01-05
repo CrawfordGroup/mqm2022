@@ -1,45 +1,24 @@
 ---
-title : "Prof. Smith"
+title : "Peter Gill"
 page_header_bg : "images/background/page-title-bg.jpg"
-designation: "University of Trump"
-image: "images/conference/mhg.png"
-description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maiores, velit."
+designation: "University of Sydney"
+image: ""
+description : ""
 draft : false
+link: "https://www.sydney.edu.au/science/about/our-people/academic-staff/p-gill.html"
 social:
-- name: "Group Website"
-  icon: "fa-sitemap"
-  link: "https://mhggroupberkeley.com/"
 - name: "University Website"
   icon: "fa-university"
-  link: "https://chemistry.berkeley.edu/faculty/chem/martin-head-gordon"
-- name: "Google Scholar"
-  icon: "fa-google"
-  link: "https://scholar.google.com/citations?user=9Z52tZ4AAAAJ&hl=en"
+  link: ""
 
 personal_info:
-  enable : true
-  title : "Scientific Contributions"
-  content : "Linear scaling algorithms for density functional theory
-calculations; New methods for calculations of electronic excited states;
-Advances in electron correlation methods."
-
+  enable : false
+  title : ""
+  content : ""
 
 skills:
-  enable : true
-  title : "Recent Awards"
-  content : "<ul>
-<li>Sloan Fellowship (1995)
-<li>Packard Fellowship (1995)
-<li>Medal of the International Academy of Quantum Molecular Sciences (1998)
-<li>Miller Research Professor (2001–2)
-<li>Visiting Fellow, Clare Hall (2006)
-<li>Member of the International Academy of Quantum Molecular Sciences (2006)
-<li>Fellow of the American Academy of Arts and Sciences (2011)
-<li>Fellow of the American Chemical Society (2012)
-<li>Fellow of the National Academy of Science (2015)
-<li>Fellow of the Royal Society (2019)
-</ul>"
+  enable : false
+  title : ""
+  content : ""
 
 ---
-Professor, Department of Chemistry, University of California<br/>
-Faculty Chemist, Chemical Sciences Division, Lawrence Berkeley National Laboratory

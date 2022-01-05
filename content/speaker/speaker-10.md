@@ -1,11 +1,11 @@
 ---
-title : "Timothy J. Lee"
+title : "Andreas Dreuw"
 page_header_bg : "images/background/page-title-bg.jpg"
-designation: "NASA Ames Laboratory"
+designation: "University of Heidelberg"
 image: ""
 description : ""
-link: "https://www.nasa.gov/content/timothy-lee"
 draft : false
+link: "https://wwwagdreuw.iwr.uni-heidelberg.de/andreas_dreuw.php"
 social:
 - name: "Institute Website"
   icon: "fa-network"

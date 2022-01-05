@@ -1,10 +1,10 @@
 ---
-title : "Timothy J. Lee"
+title : "David Yarkony"
 page_header_bg : "images/background/page-title-bg.jpg"
-designation: "NASA Ames Laboratory"
+designation: "Johns Hopkins University"
 image: ""
 description : ""
-link: "https://www.nasa.gov/content/timothy-lee"
+link: "https://chemistry.jhu.edu/directory/david-yarkony/"
 draft : false
 social:
 - name: "Institute Website"

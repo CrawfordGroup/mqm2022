@@ -1,10 +1,10 @@
 ---
-title : "Timothy J. Lee"
+title : "Gregory Beran"
 page_header_bg : "images/background/page-title-bg.jpg"
-designation: "NASA Ames Laboratory"
+designation: "University of California, Riverside"
 image: ""
 description : ""
-link: "https://www.nasa.gov/content/timothy-lee"
+link: "https://profiles.ucr.edu/app/home/profile/gregoryb"
 draft : false
 social:
 - name: "Institute Website"

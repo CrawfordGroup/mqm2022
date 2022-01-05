@@ -1,10 +1,9 @@
 ---
-title : "Timothy J. Lee"
+title : "Piotr Piecuch"
 page_header_bg : "images/background/page-title-bg.jpg"
-designation: "NASA Ames Laboratory"
 image: ""
-description : ""
-link: "https://www.nasa.gov/content/timothy-lee"
+designation : "Michigan State University"
+link: "https://www2.chemistry.msu.edu/faculty/piecuch/"
 draft : false
 social:
 - name: "Institute Website"

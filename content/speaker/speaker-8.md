@@ -1,10 +1,10 @@
 ---
-title : "Timothy J. Lee"
+title : "Viktor Staroverov"
 page_header_bg : "images/background/page-title-bg.jpg"
-designation: "NASA Ames Laboratory"
+designation: "Western University"
 image: ""
 description : ""
-link: "https://www.nasa.gov/content/timothy-lee"
+link: "https://www.uwo.ca/chem/people/faculty/staroverov.html"
 draft : false
 social:
 - name: "Institute Website"

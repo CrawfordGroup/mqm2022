@@ -1,10 +1,10 @@
 ---
-title : "Timothy J. Lee"
+title : "John Perdew"
 page_header_bg : "images/background/page-title-bg.jpg"
-designation: "NASA Ames Laboratory"
+designation: "Temple University"
 image: ""
 description : ""
-link: "https://www.nasa.gov/content/timothy-lee"
+link: "https://phys.cst.temple.edu/john-perdew.html"
 draft : false
 social:
 - name: "Institute Website"

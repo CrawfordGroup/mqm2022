@@ -1,10 +1,10 @@
 ---
-title : "Timothy J. Lee"
+title : "Kenneth Ruud"
 page_header_bg : "images/background/page-title-bg.jpg"
-designation: "NASA Ames Laboratory"
+designation: "University of Tromsø"
 image: ""
 description : ""
-link: "https://www.nasa.gov/content/timothy-lee"
+link: "https://en.wikipedia.org/wiki/Kenneth_Ruud"
 draft : false
 social:
 - name: "Institute Website"

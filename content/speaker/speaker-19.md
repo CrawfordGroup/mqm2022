@@ -1,10 +1,10 @@
 ---
-title : "Timothy J. Lee"
+title : "Spiridoula Matsika"
 page_header_bg : "images/background/page-title-bg.jpg"
-designation: "NASA Ames Laboratory"
+designation: "Temple University"
 image: ""
 description : ""
-link: "https://www.nasa.gov/content/timothy-lee"
+link: "https://chem.cst.temple.edu/matsika.html"
 draft : false
 social:
 - name: "Institute Website"

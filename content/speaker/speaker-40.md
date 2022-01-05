@@ -1,10 +1,9 @@
 ---
-title : "Timothy J. Lee"
+title : "Shaama Sharada"
 page_header_bg : "images/background/page-title-bg.jpg"
-designation: "NASA Ames Laboratory"
 image: ""
-description : ""
-link: "https://www.nasa.gov/content/timothy-lee"
+designation : "University of Southern California"
+link: "https://viterbi.usc.edu/directory/faculty/Sharada/Shaama"
 draft : false
 social:
 - name: "Institute Website"

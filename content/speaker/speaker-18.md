@@ -1,10 +1,10 @@
 ---
-title : "Timothy J. Lee"
+title : "Matthias Ernzerhof"
 page_header_bg : "images/background/page-title-bg.jpg"
-designation: "NASA Ames Laboratory"
+designation: "University of Montreal"
 image: ""
 description : ""
-link: "https://www.nasa.gov/content/timothy-lee"
+link: "https://recherche.umontreal.ca/english/our-researchers/professors-directory/researcher/is/in14628/"
 draft : false
 social:
 - name: "Institute Website"

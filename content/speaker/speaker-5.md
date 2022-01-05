@@ -1,10 +1,10 @@
 ---
-title : "Timothy J. Lee"
+title : "Krishnan Raghavachari"
 page_header_bg : "images/background/page-title-bg.jpg"
-designation: "NASA Ames Laboratory"
+designation: "Indiana University"
 image: ""
 description : ""
-link: "https://www.nasa.gov/content/timothy-lee"
+link: "https://en.wikipedia.org/wiki/Krishnan_Raghavachari"
 draft : false
 social:
 - name: "Institute Website"

@@ -1,10 +1,10 @@
 ---
-title : "Timothy J. Lee"
+title : "Frank Neese"
 page_header_bg : "images/background/page-title-bg.jpg"
-designation: "NASA Ames Laboratory"
+designation: "Max Planck Institute for Coal Research"
 image: ""
 description : ""
-link: "https://www.nasa.gov/content/timothy-lee"
+link: "https://www.kofo.mpg.de/en/research/molecular-theory-and-spectroscopy"
 draft : false
 social:
 - name: "Institute Website"

@@ -1,10 +1,10 @@
 ---
-title : "Timothy J. Lee"
+title : "Roi Baer"
 page_header_bg : "images/background/page-title-bg.jpg"
-designation: "NASA Ames Laboratory"
+designation: "Hebrew University of Jerusalem"
 image: ""
 description : ""
-link: "https://www.nasa.gov/content/timothy-lee"
+link: "https://chemistry.huji.ac.il/people/roi-baer"
 draft : false
 social:
 - name: "Institute Website"

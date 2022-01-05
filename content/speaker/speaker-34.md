@@ -1,10 +1,10 @@
 ---
-title : "Timothy J. Lee"
+title : "Peter Pulay"
 page_header_bg : "images/background/page-title-bg.jpg"
-designation: "NASA Ames Laboratory"
+designation: "University of Arkansas"
 image: ""
 description : ""
-link: "https://www.nasa.gov/content/timothy-lee"
+link: "https://fulbright.uark.edu/departments/chemistry/directory/profile.php?uId=pulay"
 draft : false
 social:
 - name: "Institute Website"

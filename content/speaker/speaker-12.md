@@ -1,10 +1,10 @@
 ---
-title : "Timothy J. Lee"
+title : "Julia Rice"
 page_header_bg : "images/background/page-title-bg.jpg"
-designation: "NASA Ames Laboratory"
+designation: "IBM Alamaden Research Center"
 image: ""
 description : ""
-link: "https://www.nasa.gov/content/timothy-lee"
+link: "https://researcher.watson.ibm.com/researcher/view.php?person=us-jrice"
 draft : false
 social:
 - name: "Institute Website"

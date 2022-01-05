@@ -1,10 +1,10 @@
 ---
-title : "Timothy J. Lee"
+title : "Alexander Sokolov"
 page_header_bg : "images/background/page-title-bg.jpg"
-designation: "NASA Ames Laboratory"
+designation: "The Ohio State University"
 image: ""
 description : ""
-link: "https://www.nasa.gov/content/timothy-lee"
+link: "https://chemistry.osu.edu/people/sokolov.8"
 draft : false
 social:
 - name: "Institute Website"

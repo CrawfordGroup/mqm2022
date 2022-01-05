@@ -1,10 +1,10 @@
 ---
-title : "Timothy J. Lee"
+title : "Kieron Burke"
 page_header_bg : "images/background/page-title-bg.jpg"
-designation: "NASA Ames Laboratory"
+designation: "University at California, Irvine"
 image: ""
 description : ""
-link: "https://www.nasa.gov/content/timothy-lee"
+link: "https://www.chem.uci.edu/people/kieron-burke"
 draft : false
 social:
 - name: "Institute Website"

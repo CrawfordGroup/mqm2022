@@ -1,10 +1,9 @@
 ---
-title : "Timothy J. Lee"
+title : "Paul Zimmerman"
 page_header_bg : "images/background/page-title-bg.jpg"
-designation: "NASA Ames Laboratory"
 image: ""
-description : ""
-link: "https://www.nasa.gov/content/timothy-lee"
+designation : "University of Michigan"
+link: "https://lsa.umich.edu/chem/people/faculty/paulzim.html"
 draft : false
 social:
 - name: "Institute Website"

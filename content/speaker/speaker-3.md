@@ -1,10 +1,10 @@
 ---
-title : "Timothy J. Lee"
+title : "Peter Taylor"
 page_header_bg : "images/background/page-title-bg.jpg"
-designation: "NASA Ames Laboratory"
+designation: "Tianjin University"
 image: ""
 description : ""
-link: "https://www.nasa.gov/content/timothy-lee"
+link: "http://202.113.8.3/oneschool/Front/mt/view/slug/525/stype/1"
 draft : false
 social:
 - name: "Institute Website"

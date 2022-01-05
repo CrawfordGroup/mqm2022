@@ -1,10 +1,10 @@
 ---
-title : "Timothy J. Lee"
+title : "Ali Alavi"
 page_header_bg : "images/background/page-title-bg.jpg"
-designation: "NASA Ames Laboratory"
+designation: "University of Cambridge"
 image: ""
 description : ""
-link: "https://www.nasa.gov/content/timothy-lee"
+link: "https://en.wikipedia.org/wiki/Ali_Alavi"
 draft : false
 social:
 - name: "Institute Website"

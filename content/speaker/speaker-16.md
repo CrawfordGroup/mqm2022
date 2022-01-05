@@ -1,10 +1,10 @@
 ---
-title : "Timothy J. Lee"
+title : "C. David Sherrill"
 page_header_bg : "images/background/page-title-bg.jpg"
-designation: "NASA Ames Laboratory"
+designation: "Georgia Tech"
 image: ""
 description : ""
-link: "https://www.nasa.gov/content/timothy-lee"
+link: "https://en.wikipedia.org/wiki/David_Sherrill"
 draft : false
 social:
 - name: "Institute Website"

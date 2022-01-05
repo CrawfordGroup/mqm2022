@@ -1,10 +1,10 @@
 ---
-title : "Timothy J. Lee"
+title : "Nicholas Mayhall"
 page_header_bg : "images/background/page-title-bg.jpg"
-designation: "NASA Ames Laboratory"
+designation: "Virginia Tech"
 image: ""
 description : ""
-link: "https://www.nasa.gov/content/timothy-lee"
+link: "https://chem.vt.edu/people/faculty/teaching-and-research/nmayhall.html"
 draft : false
 social:
 - name: "Institute Website"

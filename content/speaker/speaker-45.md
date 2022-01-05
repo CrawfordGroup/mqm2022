@@ -1,10 +1,9 @@
 ---
-title : "Timothy J. Lee"
+title : "Hiromi Nakai"
 page_header_bg : "images/background/page-title-bg.jpg"
-designation: "NASA Ames Laboratory"
 image: ""
-description : ""
-link: "https://www.nasa.gov/content/timothy-lee"
+designation : "Waseda University"
+link: "https://waseda.pure.elsevier.com/en/persons/hiromi-nakai"
 draft : false
 social:
 - name: "Institute Website"

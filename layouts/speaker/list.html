@@ -9,9 +9,10 @@
 		</div>
 		<div class="row">
       {{ range .Data.Pages }}
-			<div class="col-lg-6 col-md-6 col-sm-6">
+			<div class="col-lg-3 col-md-4 col-sm-6">
 				<!-- Speaker 1 -->
 				<div class="speaker-item">
+                    <!--
 					<div class="image">
 						<img src="{{ .Params.image | absURL }}" alt="{{ .Title }}" class="img-fluid">
 						<div class="primary-overlay"></div>
@@ -23,8 +24,9 @@
 							</ul>
 						</div>
 					</div>
+                    -->
 					<div class="content text-center">
-						<h5><a href="{{ .Permalink }}">{{.Title }}</a></h5>
+						<h5><a href="{{ .Params.link }}">{{ .Params.title }}</a></h5>
 						<p>{{ .Params.Designation | markdownify }}</p>
 					</div>
 				</div>

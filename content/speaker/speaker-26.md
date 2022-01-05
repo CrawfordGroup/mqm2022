@@ -1,10 +1,10 @@
 ---
-title : "Timothy J. Lee"
+title : "Joachim Sauer"
 page_header_bg : "images/background/page-title-bg.jpg"
-designation: "NASA Ames Laboratory"
+designation: "Humboldt University of Berlin"
 image: ""
 description : ""
-link: "https://www.nasa.gov/content/timothy-lee"
+link: "https://en.wikipedia.org/wiki/Joachim_Sauer"
 draft : false
 social:
 - name: "Institute Website"

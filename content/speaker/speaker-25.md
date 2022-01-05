@@ -1,10 +1,10 @@
 ---
-title : "Timothy J. Lee"
+title : "Stella Stopkowicz"
 page_header_bg : "images/background/page-title-bg.jpg"
-designation: "NASA Ames Laboratory"
+designation: "University of Mainz"
 image: ""
 description : ""
-link: "https://www.nasa.gov/content/timothy-lee"
+link: "https://www.blogs.uni-mainz.de/fb09-theoretical-chemistry/dr-stella-stopkowicz/"
 draft : false
 social:
 - name: "Institute Website"

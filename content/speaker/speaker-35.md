@@ -1,10 +1,10 @@
 ---
-title : "Timothy J. Lee"
+title : "Angela Wilson"
 page_header_bg : "images/background/page-title-bg.jpg"
-designation: "NASA Ames Laboratory"
+designation: "Michigan State University"
 image: ""
 description : ""
-link: "https://www.nasa.gov/content/timothy-lee"
+link: "https://www.chemistry.msu.edu/faculty-research/faculty-members/angela-k-wilson/"
 draft : false
 social:
 - name: "Institute Website"

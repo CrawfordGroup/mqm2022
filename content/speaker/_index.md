@@ -2,9 +2,7 @@
 title : "MQM 2022 Speakers"
 page_header_bg : "images/background/page-title-bg.jpg"
 date: 2020-03-14T15:40:24+06:00
-description : "MQM 2022 has many speakers."
+description : "MQM 2022 Speakers"
 draft : false
 ---
-
-## MQM 2022 Speakers
-MQM 2022 has a ton of speakers.
+#### The following scientists have accepted the invitation to speak at MQM 2022.

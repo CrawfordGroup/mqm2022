@@ -1,10 +1,9 @@
 ---
-title : "Timothy J. Lee"
+title : "Joachim Werner"
 page_header_bg : "images/background/page-title-bg.jpg"
-designation: "NASA Ames Laboratory"
 image: ""
-description : ""
-link: "https://www.nasa.gov/content/timothy-lee"
+designation : "University of Stuttgart"
+link: "https://www.itheoc.uni-stuttgart.de/research/werner/"
 draft : false
 social:
 - name: "Institute Website"

@@ -1,10 +1,9 @@
 ---
-title : "Timothy J. Lee"
+title : "Heather Kulik"
 page_header_bg : "images/background/page-title-bg.jpg"
-designation: "NASA Ames Laboratory"
 image: ""
-description : ""
-link: "https://www.nasa.gov/content/timothy-lee"
+designation : "Massachusetts Institute of Technology"
+link: "https://cheme.mit.edu/profile/heather-j-kulik/"
 draft : false
 social:
 - name: "Institute Website"

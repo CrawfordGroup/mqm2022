@@ -1,10 +1,10 @@
 ---
-title : "Timothy J. Lee"
+title : "Juergen Gauss"
 page_header_bg : "images/background/page-title-bg.jpg"
-designation: "NASA Ames Laboratory"
+designation: "University of Mainz"
 image: ""
 description : ""
-link: "https://www.nasa.gov/content/timothy-lee"
+link: "https://www.tc.uni-mainz.de/prof-dr-juergen-gauss/"
 draft : false
 social:
 - name: "Institute Website"

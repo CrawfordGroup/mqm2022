@@ -1,10 +1,9 @@
 ---
-title : "Timothy J. Lee"
+title : "So Hirata"
 page_header_bg : "images/background/page-title-bg.jpg"
-designation: "NASA Ames Laboratory"
 image: ""
-description : ""
-link: "https://www.nasa.gov/content/timothy-lee"
+designation : "University of Illinois"
+link: "https://chemistry.illinois.edu/sohirata"
 draft : false
 social:
 - name: "Institute Website"

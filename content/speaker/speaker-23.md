@@ -1,10 +1,10 @@
 ---
-title : "Timothy J. Lee"
+title : "Roland Lindh"
 page_header_bg : "images/background/page-title-bg.jpg"
-designation: "NASA Ames Laboratory"
+designation: "Uppsala University"
 image: ""
 description : ""
-link: "https://www.nasa.gov/content/timothy-lee"
+link: "https://katalog.uu.se/profile/?id=N10-584"
 draft : false
 social:
 - name: "Institute Website"

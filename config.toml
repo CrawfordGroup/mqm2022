@@ -87,13 +87,8 @@ weight = 4
 
 [[menu.main]]
 name = "Abstracts"
-url = "abstracts"
+url = "https://molssi.typeform.com/to/PNJxours"
 weight = 5
-
-[[menu.main]]
-name = "Contact"
-url = "contact"
-weight = 6
 
 
 #################### default parameters ################################

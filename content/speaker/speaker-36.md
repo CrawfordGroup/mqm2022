@@ -1,10 +1,10 @@
 ---
-title : "Timothy J. Lee"
+title : "Elfi Kraka"
 page_header_bg : "images/background/page-title-bg.jpg"
-designation: "NASA Ames Laboratory"
+designation: "Southern Methodist University"
 image: ""
 description : ""
-link: "https://www.nasa.gov/content/timothy-lee"
+link: "https://www.smu.edu/Dedman/Academics/Departments/Chemistry/People/Faculty/ElfiKraka"
 draft : false
 social:
 - name: "Institute Website"

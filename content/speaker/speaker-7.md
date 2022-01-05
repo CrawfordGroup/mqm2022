@@ -1,10 +1,10 @@
 ---
-title : "Timothy J. Lee"
+title : "Artur Ismailov"
 page_header_bg : "images/background/page-title-bg.jpg"
-designation: "NASA Ames Laboratory"
+designation: "University of Toronto"
 image: ""
 description : ""
-link: "https://www.nasa.gov/content/timothy-lee"
+link: "https://www.utsc.utoronto.ca/~aizmaylov/"
 draft : false
 social:
 - name: "Institute Website"
