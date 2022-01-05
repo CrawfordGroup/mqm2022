@@ -1,59 +1,46 @@
 ---
 title : "Prof. Gustavo Scuseria"
 page_header_bg : "images/background/page-title-bg.jpg"
-designation: "Rice University"
-image: "images/conference/scuseria.png"
+designation: "Rice University<br/>Houston, Texas, USA"
+image: "images/conference/ges.jpg"
 description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maiores, velit."
 draft : false
 social:
-- name: "facebook"
-  icon: "fa-facebook"
-  link: "#"
-- name: "twitter"
-  icon: "fa-twitter"
-  link: "#"
-- name: "linkedin"
-  icon: "fa-linkedin"
-  link: "#"
-- name: "instagram"
-  icon: "fa-instagram"
-  link: "#"
-- name: "skype"
-  icon: "fa-skype"
-  link: "#"
+- name: "Website"
+  icon: "fa-university"
+  link: "http://scuseria.rice.edu/"
 
 personal_info:
   enable : true
-  title : "Personal Information"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi explicabo suscipit deleniti voluptatum quos nostrum iure doloremque cupiditate voluptatem a enim eaque quod perspiciatis repudiandae, mollitia adipisci ea, quidem eveniet consequatur veniam error. Adipisci, suscipit corporis repellat, soluta vitae deserunt."
-  bulletpoints:
-  - "Morbi fermentum felis nec"
-  - "Fermentum felis nec gravida tempus."
-  - "Morbi fermentum felis nec"
-  - "Fermentum felis nec gravida tempus."
-  - "Morbi fermentum felis nec"
-  - "Fermentum felis nec gravida tempus."
-
+  title : "Scientific Contributions"
+  content : "Coupled cluster theory, linear scaling electronic structure
+methods, exchange-correlation functionals and range separation, quantum
+chemistry with periodic boundary conditions, time-dependent density
+functional theory, symmetry breaking and restoration, methods for strong
+correlation based on symmetry-projected states. Applications to fullerenes,
+carbon nanotubes, graphene nanoribbons, and solid-state heavy elements
+chemistry."
 
 skills:
   enable : true
-  title : "Personal Skills"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi explicabo suscipit deleniti voluptatum quos nostrum iure doloremque."
-  skillbars:
-  - name: "Wordpress"
-    percentage: "90%"
-  - name: "PHP"
-    percentage: "75%"
-  - name: "Javascript"
-    percentage: "60%"
-  - name: "HTML"
-    percentage: "80%"
+  title : "Recent Awards"
+  content : "<ul>
+<li>Fellow of the American Association for the Advancement of
+Science (1999)
+<li>Creativity Extension Award from the US National Science
+Foundation (2002)
+<li>Fellow of the American Physical Society (2002)
+<li>John Simon Guggenheim Fellow (2003)
+<li>Thomson-Reuters ISI Highly Cited Researcher (2003)
+<li>Fellow of the Royal Society of Chemistry (2009)
+<li>Member of the International Academy of Quantum Molecular Sciences (2009)
+<li>Fellow of the American Chemical Society (2010)
+<li>Feynman Prize in Nanotechnology Theory (2010)
+<li>Humboldt Research Award (2015)
+<li>S F Boys – A Rahman Award of the Royal Society of Chemistry (2018).
+</ul>"
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusm tempor incididunt ut labore
-dolore magna aliqua enim ad minim veniam quis nostrud.laboris nisi ut aliquip ex ea commodo consequat.
-Duis aute irure dolor in reprehenderit in voluptate velit esse.
+Robert A. Welch Professor of Chemistry<br/>
+Professor of Physics & Astronomy<br/>
+Professor of Materials Science & Nano Engineering<br/>
 
-Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni
-dolores eos qui ratione voluptatem sequi nesciunt.
-
-Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur

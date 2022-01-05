@@ -1,59 +1,39 @@
 ---
 title : "Prof. Martin Head-Gordon"
 page_header_bg : "images/background/page-title-bg.jpg"
-designation: "University of California, Berkeley"
-image: "images/conference/martin.png"
+designation: "University of California, Berkeley<br/>Berkeley, California, USA"
+image: "images/conference/mhg.png"
 description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maiores, velit."
 draft : false
 social:
-- name: "facebook"
-  icon: "fa-facebook"
-  link: "#"
-- name: "twitter"
-  icon: "fa-twitter"
-  link: "#"
-- name: "linkedin"
-  icon: "fa-linkedin"
-  link: "#"
-- name: "instagram"
-  icon: "fa-instagram"
-  link: "#"
-- name: "skype"
-  icon: "fa-skype"
-  link: "#"
+- name: "Website"
+  icon: "fa-university"
+  link: "https://mhggroupberkeley.com/"
 
 personal_info:
   enable : true
-  title : "Personal Information"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi explicabo suscipit deleniti voluptatum quos nostrum iure doloremque cupiditate voluptatem a enim eaque quod perspiciatis repudiandae, mollitia adipisci ea, quidem eveniet consequatur veniam error. Adipisci, suscipit corporis repellat, soluta vitae deserunt."
-  bulletpoints:
-  - "Morbi fermentum felis nec"
-  - "Fermentum felis nec gravida tempus."
-  - "Morbi fermentum felis nec"
-  - "Fermentum felis nec gravida tempus."
-  - "Morbi fermentum felis nec"
-  - "Fermentum felis nec gravida tempus."
+  title : "Scientific Contributions"
+  content : "Linear scaling algorithms for density functional theory
+calculations; New methods for calculations of electronic excited states;
+Advances in electron correlation methods."
 
 
 skills:
   enable : true
-  title : "Personal Skills"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi explicabo suscipit deleniti voluptatum quos nostrum iure doloremque."
-  skillbars:
-  - name: "Wordpress"
-    percentage: "90%"
-  - name: "PHP"
-    percentage: "75%"
-  - name: "Javascript"
-    percentage: "60%"
-  - name: "HTML"
-    percentage: "80%"
+  title : "Recent Awards"
+  content : "<ul>
+<li>Sloan Fellowship (1995)
+<li>Packard Fellowship (1995)
+<li>Medal of the International Academy of Quantum Molecular Sciences (1998)
+<li>Miller Research Professor (2001–2)
+<li>Visiting Fellow, Clare Hall (2006)
+<li>Member of the International Academy of Quantum Molecular Sciences (2006)
+<li>Fellow of the American Academy of Arts and Sciences (2011)
+<li>Fellow of the American Chemical Society (2012)
+<li>Fellow of the National Academy of Science (2015)
+<li>Fellow of the Royal Society (2019)
+</ul>"
+
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusm tempor incididunt ut labore
-dolore magna aliqua enim ad minim veniam quis nostrud.laboris nisi ut aliquip ex ea commodo consequat.
-Duis aute irure dolor in reprehenderit in voluptate velit esse.
-
-Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni
-dolores eos qui ratione voluptatem sequi nesciunt.
-
-Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur
+Professor, Department of Chemistry, University of California<br/>
+Faculty Chemist, Chemical Sciences Division, Lawrence Berkeley National Laboratory

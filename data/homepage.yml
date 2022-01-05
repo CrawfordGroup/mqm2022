@@ -19,19 +19,18 @@ banner:
 about:
   enable : true
   title : "MQM 2022 at Virginia Tech"
-  image : "images/conference/pasted-image.png"
+  image : "images/conference/burruss.png"
   content : "It is our pleasure to invite you to the 10th Triennial
   Conference on Molecular Quantum Mechanics, to be held on the Virginia
   Tech campus in Blacksburg, Virginia, June 26-July 1, 2022. The meeting
   will cover a broad range of subjects in quantum chemistry, including:
 <ul>
-  <li> Post Hartree-Fock Methods
-  <li> Density Functional Theory
-  <li> Strong Electron Correlation
-  <li> Relativistic Effects
-  <li> Excited States
-  <li> Solvation Models
-  <li> <i>Ab-initio</i> Molecular Dynamics
+  <li> Wavefunction-Based Methods </li>
+  <li> Density Functional Theory </li>
+  <li> Strong Electron Correlation </li>
+  <li> Relativistic Effects </li>
+  <li> Solvation Models </li>
+  <li> <i>Ab-initio</i> Molecular Dynamics </li>
 </ul>"
   button_solid:
     enable : false
@@ -46,8 +45,12 @@ about:
 ################# Speaker ###################
 speakers:
   enable : true
-  title : "Honorees"
-  content : "Honoring Martin and Gus..."
+  title : "MQM 2022 Scientific Honorees"
+  content : "MQM 2022 follows a long and distinguished tradition of
+conferences dedicated to honoring the achievements of leading scientists in
+the field and highlighting the superb science of the international quantum
+chemistry community. <br/> <br/> MQM 2022 in the U.S. will honor the work of Prof.
+Martin-Head-Gordon and Prof. Gustavo Scuseria."
   # speaker items are coming from "content/speakers" folder
 
 ###################### Tab ####################
