@@ -2,8 +2,7 @@
 banner:
   enable : true
   heading : "MQM 2022"
-  heading_2 : "The 10th Triennial Molecular Quantum Mechanics Conference<br>
-  Virginia Tech, Blacksburg, Virginia<br>
+  heading_2 : "Virginia Tech, Blacksburg, Virginia, U.S.A.<br>
   June 26th - July 1st, 2022"
   timer:
     enable : true
@@ -21,9 +20,19 @@ about:
   enable : true
   title : "MQM 2022 at Virginia Tech"
   image : "images/conference/pasted-image.png"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusm tempor incididunt ut labore dolore magna aliqua enim ad minim veniam quis nostrud exercitation ullamco.
-  <br><br>
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmtempor incididunt ut labore et dolore magna aliq enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea."
+  content : "It is our pleasure to invite you to the 10th Triennial
+  Conference on Molecular Quantum Mechanics, to be held on the Virginia
+  Tech campus in Blacksburg, Virginia, June 26-July 1, 2022. The meeting
+  will cover a broad range of subjects in quantum chemistry, including:
+<ul>
+  <li> Post Hartree-Fock Methods
+  <li> Density Functional Theory
+  <li> Strong Electron Correlation
+  <li> Relativistic Effects
+  <li> Excited States
+  <li> Solvation Models
+  <li> <i>Ab-initio</i> Molecular Dynamics
+</ul>"
   button_solid:
     enable : false
     label : "Buy ticket"
@@ -36,9 +45,9 @@ about:
     
 ################# Speaker ###################
 speakers:
-  enable : false
-  title : "Who _Speaking?_"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit sed do eiusm tempor incididunt ut labore"
+  enable : true
+  title : "Honorees"
+  content : "Honoring Martin and Gus..."
   # speaker items are coming from "content/speakers" folder
 
 ###################### Tab ####################
