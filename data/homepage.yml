@@ -18,18 +18,18 @@ banner:
     
 ################# About ###################
 about:
-  enable : false
-  title : "About The _Eventre_"
-  image : "images/speakers/featured-speaker.jpg"
+  enable : true
+  title : "MQM 2022 at Virginia Tech"
+  image : "images/conference/pasted-image.png"
   content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusm tempor incididunt ut labore dolore magna aliqua enim ad minim veniam quis nostrud exercitation ullamco.
   <br><br>
   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmtempor incididunt ut labore et dolore magna aliq enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea."
   button_solid:
-    enable : true
+    enable : false
     label : "Buy ticket"
     link : "#"
   button_outline:
-    enable : true
+    enable : false
     label : "Read more"
     link : "about"
 
