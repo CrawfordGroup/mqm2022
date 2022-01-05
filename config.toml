@@ -102,7 +102,7 @@ logo = "images/logo.png"
 logo_footer = "images/footer-logo.png"
 logo_width = "100px"
 # Meta data
-description = "This is meta description"
+description = "The 10th Triennial Molecuar Quantum Mechanics Conference"
 author = "Themefisher"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
