@@ -781,7 +781,7 @@ select.form-control:not([size]):not([multiple]) {
       font-style: italic; }
       @media (max-width: 767px) {
         .banner .block h2 {
-          font-size: 3.2rem; } }
+          font-size: 1.5rem; } }
       @media (max-width: 400px) {
         .banner .block h2 {
           font-size: 1.5rem; } }
