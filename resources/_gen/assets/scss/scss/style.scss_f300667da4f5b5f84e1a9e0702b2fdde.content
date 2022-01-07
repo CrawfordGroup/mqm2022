@@ -627,7 +627,7 @@ select.form-control:not([size]):not([multiple]) {
       color: #fff; }
 
 .footer-main {
-  background: #142758;
+  background: #861F41;
   padding: 90px 0; }
   @media (max-width: 767px) {
     .footer-main {
@@ -655,7 +655,7 @@ select.form-control:not([size]):not([multiple]) {
           color: #fff; }
 
 .subfooter {
-  background: #12234d;
+  background: #6d2439;
   padding: 18px 0; }
   .subfooter .copyright-text p {
     font-family: "Montserrat", sans-serif; }
