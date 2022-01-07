@@ -90,6 +90,31 @@ name = "Abstracts"
 url = "https://molssi.typeform.com/to/PNJxours"
 weight = 5
 
+[[menu.main]]
+name = "Info"
+hasChildren = true
+weight = 6
+
+  [[menu.main]]
+  parent = "Info"
+  name = "Travel"
+  url = "travel"
+
+  [[menu.main]]
+  parent = "Info"
+  name = "Accommodations"
+  url = "accommodations"
+
+  [[menu.main]]
+  parent = "Info"
+  name = "Organizers"
+  url = "organizers"
+
+  [[menu.main]]
+  parent = "Info"
+  name = "History"
+  url = "history"
+
 
 #################### default parameters ################################
 [params]

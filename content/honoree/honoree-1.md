@@ -1,6 +1,6 @@
 ---
 title : "Prof. Gustavo Scuseria"
-page_header_bg : "images/background/page-title-bg.jpg"
+page_header_bg : "images/background/homepage-one-banner.jpg"
 designation: "Rice University<br/>Houston, Texas, USA"
 image: "images/conference/ges.jpg"
 description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maiores, velit."
