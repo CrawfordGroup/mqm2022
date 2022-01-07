@@ -576,7 +576,7 @@ select.form-control:not([size]):not([multiple]) {
           opacity: 1;
           visibility: visible; } }
   .main-nav .ticket {
-    background: #ff6600;
+    background: #861F41;
     display: block;
     padding: 34px 32px; }
     @media (max-width: 1200px) {
