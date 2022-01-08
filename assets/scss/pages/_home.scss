@@ -124,6 +124,10 @@
 }
 
 .about {
+    hr{
+       width: 80%;
+       border-top: 1px solid $primary-color;
+    }
 	.image-block{
 		padding: 30px;
 		img{

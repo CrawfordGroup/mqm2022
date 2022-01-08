@@ -820,6 +820,10 @@ select.form-control:not([size]):not([multiple]) {
     @media (max-width: 575px) {
       .banner-two .block h6 {
         margin-top: 30px; } }
+.about hr {
+  width: 80%;
+  border-top: 1px solid #ff6600; }
+
 .about .image-block {
   padding: 30px; }
   .about .image-block img {

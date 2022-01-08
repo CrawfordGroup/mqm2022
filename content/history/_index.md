@@ -1,0 +1,41 @@
+---
+title : "The History of MQM"
+page_header_bg : "images/background/homepage-one-banner.png"
+description : "MQM History."
+draft: false
+venue:
+- locale: "Athens, Georgia, 1989"
+  desc: "In Honor of John Pople (1998 Nobel Prize)"
+  image: "images/conference/mqm1989.jpg"
+- locale: "Cambridge, England, 1995"
+  desc: "In Memory of Samuel Francis Boys and in Honor of Isaiah Shavitt"
+  image: "images/conference/mqm1994.jpg"
+  pos: "right"
+- locale: "Seattle, Washington, 2001"
+  desc: "In Honor of Ernest R. Davidson"
+  image: "images/conference/mqm2001.jpg"
+- locale: "Cambridge, England, 2004"
+  desc: "In Honor of Nicholas C. Handy"
+  image: "images/conference/mqm2004.jpg"
+  pos: "right"
+- locale: "Budapest, Hungary, 2007"
+  desc: "In Honor of Peter Pulay"
+  image: "images/conference/mqm2007.jpg"
+- locale: "Berkeley, California, 2010"
+  desc: "In Honor of Henry F. Schaefer, III"
+  image: "images/conference/mqm2010.jpg"
+  pos: "right"
+- locale: "Lugano, Switzerland, 2013"
+  desc: "In Honor of Rodney J. Bartlett"
+  image: "images/conference/mqm2013.jpg"
+- locale: "Uppsala, Sweden, 2016"
+  desc: "In Memory of Jan Almlöf, Inga Fischer-Hjalmars, Per-Olov Löwdin, and Björn Roos, and in Honor of Per Siegbahn"
+  image: "images/conference/mqm2016.jpg"
+  pos: "right"
+- locale: "Heidelberg, Germany, 2019"
+  desc: "In Memory of Reinhart Ahlrichs and In Honor of Werner Kutzelnigg, Wilfried Meyer, and Sigrid Peyerimhoff"
+  image: "images/conference/mqm2019.jpg"
+---
+## The History of the Molecular Quantum Mechanics Conferences
+
+MQM 2022 follows a long and distinguished tradition of conferences dedicated to honoring the achievements of leading scientists in the field and highlighting the superb science of the international quantum chemistry community.

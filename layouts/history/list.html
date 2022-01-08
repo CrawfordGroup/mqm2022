@@ -1,0 +1,49 @@
+{{ define "main" }}
+
+<section class="section about">
+  <div class="container">
+    <div class="row">
+      <div class="col-12 section-title">
+    {{.Content}}
+      </div>
+    </div>
+    {{ range first 20 .Params.venue }}
+    <div class="row">
+      {{ if eq .pos "right" }}
+      <div class="col-lg-7 col-md-8 align-self-center">
+        <div class="content-block">
+          <h2>{{.locale | markdownify}}</h2>
+          <div class="description-one">
+            <h5>{{ .desc | markdownify}}</h5>
+          </div>
+          </ul>
+        </div>
+      </div>
+      <div class="col-lg-5 col-md-4 align-self-center">
+        <div class="image-block bg-about">
+          <img class="img-fluid" src="{{ .image | absURL }}">
+        </div>
+      </div>
+      {{ else }}
+      <div class="col-lg-5 col-md-4 align-self-center">
+        <div class="image-block bg-about">
+          <img class="img-fluid" src="{{ .image | absURL }}">
+        </div>
+      </div>
+      <div class="col-lg-7 col-md-8 align-self-center">
+        <div class="content-block">
+          <h2>{{.locale | markdownify}}</h2>
+          <div class="description-one">
+            <h5>{{ .desc | markdownify}}</h5>
+          </div>
+          </ul>
+        </div>
+      </div>
+      {{ end }}
+    </div> <!-- end row -->
+    <hr>
+    {{ end }}
+  </div>
+</section>
+
+{{ end }}

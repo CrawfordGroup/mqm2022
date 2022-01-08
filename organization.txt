@@ -19,7 +19,10 @@ honoree pages:
   assets/scss/pages/_home.scss <-- defines styles for honorees section of
                                    homepage
 
-
+Creating the history page:
+  (1) Create layouts/history/list.html
+  (2) Create content/history/_index.md
+  (3) Add entries to #2 and adjust #1 to read them
 
 ** Neither speaker nor honoree content files identify a standard layout
 -------
