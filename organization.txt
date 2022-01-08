@@ -1,3 +1,29 @@
+Creating new pages?
+
+speaker page handled as:
+  layouts/speaker/list.html  <-- page structure generation
+  content/speaker/_index.md  <-- aggregate list text
+  content/speaker/speaker-n.md <-- content for each speaker
+
+honoree pages:
+  layouts/honoree/list.html    <-- aggregate page structure generation
+  layouts/honoree/single.html  <-- individual page structure generation
+  layouts/index.html  <-- contains code to generate honoree data for homepage
+  content/honoree/_index.md  <-- content for an aggregate page that is not
+                                 explicitly linked
+  content/honoree/honoree-n.md <-- individual data used for both agreegate
+                                    and individual pages
+  assets/scss/style.scss <-- imports _honoree.scss
+  assets/scss/pages/_honoree.scss <-- defines styles for single-honoree,
+                                      .honorees-full-width (unused?)
+  assets/scss/pages/_home.scss <-- defines styles for honorees section of
+                                   homepage
+
+
+
+** Neither speaker nor honoree content files identify a standard layout
+-------
+
 config.toml: top-level markup
   theme selection
   CSS and JS plugins
@@ -43,3 +69,7 @@ assets/scss/pages: CSS for specific subpages
 
 assets/scss/pages/_home.scss: specific CSS for the homepage (including
         header font sizes)
+
+
+
+

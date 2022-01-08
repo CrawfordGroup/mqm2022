@@ -108,7 +108,7 @@ weight = 6
   [[menu.main]]
   parent = "Info"
   name = "Organizers"
-  url = "organizers"
+  url = "organizer"
 
   [[menu.main]]
   parent = "Info"

@@ -15,6 +15,9 @@ social:
 - name: "Google Scholar"
   icon: "fa-google"
   link: "https://scholar.google.com/citations?user=6ZiRSwQAAAAJ&hl=en"
+- name: "Wikipedia"
+  icon: "fa-wikipedia-w"
+  link: "https://en.wikipedia.org/wiki/Gustavo_Scuseria"
 
 personal_info:
   enable : true

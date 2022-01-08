@@ -15,6 +15,9 @@ social:
 - name: "Google Scholar"
   icon: "fa-google"
   link: "https://scholar.google.com/citations?user=9Z52tZ4AAAAJ&hl=en"
+- name: "Wikipedia"
+  icon: "fa-wikipedia-w"
+  link: "https://en.wikipedia.org/wiki/Martin_Head-Gordon"
 
 personal_info:
   enable : true
