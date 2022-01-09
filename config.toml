@@ -99,21 +99,25 @@ weight = 6
   parent = "Info"
   name = "Travel"
   url = "travel"
+  weight = 1
 
   [[menu.main]]
   parent = "Info"
   name = "Accommodations"
   url = "accommodations"
+  weight = 2
 
   [[menu.main]]
   parent = "Info"
   name = "Organizers"
   url = "organizer"
+  weight = 3
 
   [[menu.main]]
   parent = "Info"
   name = "History"
   url = "history"
+  weight = 4
 
 
 #################### default parameters ################################
