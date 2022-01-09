@@ -527,20 +527,29 @@
 						@include tablet {
 							width: 60%;
 						}
-						@include mobile {
-							width: 50%;
-						}
-						img {
-							@include mobile {
-								display: none;
-							}
-						}
+// Add these back in after you fill out the detailed schedule
+//						@include mobile {
+//							width: 50%;
+//						}
+//						img {
+//							@include mobile {
+//								display: none;
+//							}
+//						}
 					}
 					.subject{
 						width: 30%;
 						@include large-desktop {
 							display: none;
 						}
+// Remove these after you fill out the detailed schedule
+						@include tablet {
+							width: 60%;
+						}
+						@include mobile {
+							width: 50%;
+						}
+// end of remove block
 					}
 					.venue{
 						@include tablet {
