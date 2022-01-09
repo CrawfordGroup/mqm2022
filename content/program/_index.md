@@ -5,8 +5,8 @@ date: 2020-03-14T15:40:24+06:00
 description: "MQM 2022 Program"
 draft : false
 tablist:
-- name : "Day-01"
-  date : "26 June 2022"
+- name : "Day 1"
+  date : "Sunday<br/>26 June 2022"
   tablist_items:
   - time : "3:00 PM - 5:00 PM"
     event : "Registration"
@@ -18,8 +18,8 @@ tablist:
     event : "Conference Opening"
     venue : "Goodwin Hall"
 
-- name : "Day-02"
-  date : "27 June 2022"
+- name : "Day 2"
+  date : "Monday<br/>27 June 2022"
   tablist_items:
   - time : "8:30 AM - 12:30 PM"
     event : "Lectures"
@@ -37,8 +37,8 @@ tablist:
     event : "Poster Session"
     venue : "Inn at Virginia Tech"
 
-- name : "Day-03"
-  date : "28 June 2022"
+- name : "Day 3"
+  date : "Tuesday<br/>28 June 2022"
   tablist_items:
   - time : "8:30 AM - 12:30 PM"
     event : "Lectures"
@@ -56,8 +56,8 @@ tablist:
     event : "Poster Session"
     venue : "Inn at Virginia Tech"
 
-- name : "Day-04"
-  date : "29 June 2022"
+- name : "Day 4"
+  date : "Wednesday<br/>29 June 2022"
   tablist_items:
   - time : "8:30 AM - 12:30 PM"
     event : "Lectures"
@@ -72,8 +72,8 @@ tablist:
     event : "Poster Session"
     venue : "Inn at Virginia Tech"
 
-- name : "Day-05"
-  date : "30 June 2022"
+- name : "Day 5"
+  date : "Thursday<br/>30 June 2022"
   tablist_items:
   - time : "8:30 AM - 12:30 PM"
     event : "Lectures"
@@ -88,8 +88,8 @@ tablist:
     event : "Conference Banquet"
     venue : "The Taubman Museum of Art, Roanoke"
 
-- name : "Day-06"
-  date : "1 July 2022"
+- name : "Day 6"
+  date : "Friday<br/>1 July 2022"
   tablist_items:
   - time : "8:30 AM - 12:30 PM"
     event : "Lectures"
