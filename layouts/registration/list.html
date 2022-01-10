@@ -64,7 +64,11 @@
           </div>
           <div class="pricing-footer text-center">
             <br/>
+            {{ if eq .available "true" }}
             <a href="{{ .button_link | absURL }}" class="btn btn-transparent-md">Register</a>
+            {{ else }}
+            <div class="btn btn-transparent-md">Register</div>
+            {{ end }}
           </div>
         </div>
       </div>

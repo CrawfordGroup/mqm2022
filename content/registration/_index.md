@@ -17,16 +17,16 @@ registration_levels:
   button_link : "https://register.cpe.vt.edu/search/publicCourseSearchDetails.do?method=load&courseId=4623658"
 - name : "Student<br/>(Standard)"
   price : "$350"
-  available : "true"
-  button_link : "https://register.cpe.vt.edu/search/publicCourseSearchDetails.do?method=load&courseId=4623658"
+  available : "false"
+  button_link : "#"
 - name : "Non-Student<br/>(Early-Bird)"
   price : "$450"
-  available : "false"
+  available : "true"
   button_link : "https://register.cpe.vt.edu/search/publicCourseSearchDetails.do?method=load&courseId=4623658"
 - name : "Non-Student<br/>(Standard)"
   price : "$550"
   available : "false"
-  button_link : "https://register.cpe.vt.edu/search/publicCourseSearchDetails.do?method=load&courseId=4623658"
+  button_link : "#"
 
 ---
 
@@ -36,3 +36,6 @@ You may register for the conference using the links below.  Special
 registration rates are available for students and early registrants.
 Banquet costs are included in the registration fees, and additional banquet
 tickets are available for guests for $60 each.
+<br/><br/>
+Early-bird registration ends <b>March 31st, 2022</b>; standard fees will apply
+starting April 1st until the beginning of the conference.
