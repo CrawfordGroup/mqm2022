@@ -82,7 +82,7 @@ weight = 3
 
 [[menu.main]]
 name = "Registration"
-url = "https://register.cpe.vt.edu/search/publicCourseSearchDetails.do?method=load&courseId=4623658"
+url = "registration"
 weight = 4
 
 [[menu.main]]
@@ -149,7 +149,7 @@ preloader = "" # use jpg, png, svg or gif format.
 enable = true
 label = "Register"
 icon = "images/icon/ticket.png"
-link = "https://register.cpe.vt.edu/search/publicCourseSearchDetails.do?method=load&courseId=4623658"
+link = "registration"
 
 # Subscription
 [params.subscription]

@@ -1,0 +1,76 @@
+{{ define "main"}}
+
+<!--
+<section class="section about">
+  <div class="container">
+    <div class="row">
+      <div class="col-12 section-title">
+    {{.Content}}
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="col-lg-5 col-md-4 align-self-center">
+        <div class="image-block bg-about">
+          <img class="img-fluid" src="{{ .Params.image | absURL }}">
+        </div>
+      </div>
+      <div class="col-lg-7 col-md-8 align-self-center">
+        <div class="content-block">
+          <h2>{{.Params.locale | markdownify}}</h2>
+          <div class="description-one">
+            <h5>{{ .Params.desc | markdownify}}</h5>
+          </div>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+-->
+<section class="section pricing">
+  <div class="container">
+
+    <div class="row">
+      <div class="col-12 section-title">
+    {{.Content}}
+      </div>
+    </div>
+
+    <div class="row">
+      {{ range .Params.registration_levels }}
+      <div class="col-lg-3 col-md-6">
+        <!-- Pricing Item -->
+        <div class="pricing-item">
+          <div class="pricing-heading">
+            <!-- Title -->
+            <div class="title">
+              <center>
+              {{ if eq .available "true" }}
+              <span class="fa fa-check-circle available" style="color:#ff6600"></span>
+              {{ else }}
+              <span class="fa fa-check-circle available" style="color:#7c7491"></span>
+              {{ end }}
+              <h6>{{.name | markdownify}}</h6>
+              </center>
+            </div>
+            <!-- Price -->
+            <div class="price">
+              <center>
+              <h2>{{ .price }}</h2>
+              </center>
+            </div>
+          </div>
+          <div class="pricing-footer text-center">
+            <br/>
+            <a href="{{ .button_link | absURL }}" class="btn btn-transparent-md">Register</a>
+          </div>
+        </div>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</section>
+
+{{ end }}

@@ -12,7 +12,7 @@
 					{{ end }}
 					{{ end }}
 					{{ range ( $categories | uniq ) }}
-					<button type="button" class="control" data-filter=".{{ . | urlize }}">{{ . | humanize }}</button>
+					<button type="button" class="control" data-filter=".{{ . | urlize }}">{{ . | markdownify }}</button>
 					{{ end }}
 				</div>
 				<div class="gallery-wrapper">
@@ -26,7 +26,7 @@
 											class="fa fa-picture-o"></i></a>
 								</div>
 							</div>
-                            <center>{{ .desc }}</center>
+                            <center>{{ .desc | markdownify }}</center>
 						</div>
 					</div>
 					{{ end }}

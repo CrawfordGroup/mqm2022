@@ -6,7 +6,7 @@ draft: false
 venue:
 - locale : "Traveling to MQM 2022"
   desc : "MQM 2022 will be held on the Virginia Tech campus in Blacksburg,
-  Virginia, in the Blue Ridge Mountains.  Several transportation options
+  Virginia, in the Blue Ridge Mountains. Several transportation options
   are given below."
   image : "images/conference/bridge.jpg"
 ---
