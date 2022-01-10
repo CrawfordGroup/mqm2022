@@ -29,7 +29,7 @@ Advances in electron correlation methods."
 
 skills:
   enable : true
-  title : "Recent Awards"
+  title : "Selected Awards"
   content : "<ul>
 <li>Sloan Fellowship (1995)
 <li>Packard Fellowship (1995)

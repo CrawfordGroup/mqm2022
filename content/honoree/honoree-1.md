@@ -32,7 +32,7 @@ chemistry."
 
 skills:
   enable : true
-  title : "Recent Awards"
+  title : "Selected Awards"
   content : "<ul>
 <li>Fellow of the American Association for the Advancement of
 Science (1999)
