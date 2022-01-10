@@ -12,7 +12,7 @@ banner:
   button:
     enable : true
     label : "Register"
-    link : "https://register.cpe.vt.edu/search/publicCourseSearchDetails.do?method=load&courseId=4623658"
+    link : "registration"
 
     
 ################# About ###################
