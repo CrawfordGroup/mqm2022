@@ -91,33 +91,39 @@ url = "https://molssi.typeform.com/to/PNJxours"
 weight = 5
 
 [[menu.main]]
-name = "Info"
+name = "More Info"
 hasChildren = true
 weight = 6
 
   [[menu.main]]
-  parent = "Info"
+  parent = "More Info"
   name = "Travel"
   url = "travel"
   weight = 1
 
   [[menu.main]]
-  parent = "Info"
+  parent = "More Info"
   name = "Accommodations"
   url = "accommodations"
   weight = 2
 
   [[menu.main]]
-  parent = "Info"
-  name = "Organizers"
-  url = "organizer"
+  parent = "More Info"
+  name = "Venues"
+  url = "venues"
   weight = 3
 
   [[menu.main]]
-  parent = "Info"
+  parent = "More Info"
+  name = "Organizers"
+  url = "organizer"
+  weight = 4
+
+  [[menu.main]]
+  parent = "More Info"
   name = "History"
   url = "history"
-  weight = 4
+  weight = 5
 
 
 #################### default parameters ################################
@@ -157,7 +163,7 @@ mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074" # replace this co
 # google map
 [params.map]
 enable = false
-gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ"
+gmap_api = "https://www.google.com/maps/d/u/0/edit?mid=1esMCrnXEUwYlKbJWxFMCZxL8CTwD73JN&usp=sharing"
 # map_latitude = "51.5223477"
 # map_longitude = "-0.1622023"
 map_latitude = "37.232397744678295"
