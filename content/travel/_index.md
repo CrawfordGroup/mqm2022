@@ -53,8 +53,7 @@ website</a><style>.gmap_canvas
 <h4>Ground Transportation</h4>
 <p>Once you have arrived at your final airport destination, you will need
 to arrange for ground transportation to campus.  Rental cars are available at
-the airport terminals (advance reservations are recommended), and Uber/Lyft
-are typically available for ca. $68-$81.</p>
+the airport terminals (advance reservations are recommended).</p>
 <p>From Roanoke Regional Airport (ROA):</p>
 <ul>
   <li><a href="https://smartwaybus.com/" target="_blank"><b>Smart
@@ -62,6 +61,7 @@ Way</b>&nbsp;bus</a> service: This service drops riders off at the <a
 href="https://campuslife.vt.edu/student_centers/Squires.html"
 target="_blank"><b>Squires Student Center</b></a> on campus. Smart Way is
 an affordable and convenient choice for most travelers who plan to arrive Monday through Saturday. The bus does&nbsp;NOT&nbsp;run from the airport on Sundays. Be sure you are aware of scheduled stop times&nbsp;prior to arrival at the airport. Travel time to campus is just over an hour. </li>
+<li>Uber/Lyft rides are typically available for ca. $68-$85.</li>
   </ul>
 
   <p>From Charlotte Douglas International Airport (CLT):</p>
