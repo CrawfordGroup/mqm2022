@@ -1,7 +1,7 @@
 ---
 title : "Juan Peralta"
 page_header_bg : "images/background/page-title-bg.jpg"
-image: ""
+image: "images/speakers/peralta.jpg"
 designation : "Central Michigan University"
 link: "http://people.cst.cmich.edu/peral1j/"
 draft : false

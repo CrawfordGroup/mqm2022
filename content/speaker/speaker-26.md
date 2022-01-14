@@ -1,8 +1,8 @@
 ---
 title : "Joachim Sauer"
 page_header_bg : "images/background/page-title-bg.jpg"
-designation: "Humboldt University of Berlin"
-image: ""
+designation: "Humboldt Universität Berlin"
+image: "images/speakers/sauer.jpeg"
 description : ""
 link: "https://en.wikipedia.org/wiki/Joachim_Sauer"
 draft : false

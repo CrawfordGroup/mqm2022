@@ -2,7 +2,7 @@
 title : "Viktor Staroverov"
 page_header_bg : "images/background/page-title-bg.jpg"
 designation: "Western University"
-image: ""
+image: "images/speakers/staroverov.jpeg"
 description : ""
 link: "https://www.uwo.ca/chem/people/faculty/staroverov.html"
 draft : false

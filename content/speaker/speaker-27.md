@@ -2,7 +2,7 @@
 title : "Jochen Autschbach"
 page_header_bg : "images/background/page-title-bg.jpg"
 designation: "University at Buffalo"
-image: ""
+image: "images/speakers/autschbach.jpeg"
 description : ""
 link: "https://arts-sciences.buffalo.edu/chemistry/faculty/faculty-directory/autschbach.html"
 draft : false

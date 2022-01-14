@@ -2,7 +2,7 @@
 title : "Spiridoula Matsika"
 page_header_bg : "images/background/page-title-bg.jpg"
 designation: "Temple University"
-image: ""
+image: "images/speakers/matsika.jpeg"
 description : ""
 link: "https://chem.cst.temple.edu/matsika.html"
 draft : false

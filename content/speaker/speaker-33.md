@@ -2,7 +2,7 @@
 title : "Giulia Galli"
 page_header_bg : "images/background/page-title-bg.jpg"
 designation: "University of Chicago"
-image: ""
+image: "images/speakers/galli.jpeg"
 description : ""
 link: "https://chemistry.uchicago.edu/faculty/giulia-galli"
 draft : false

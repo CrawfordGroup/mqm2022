@@ -2,7 +2,7 @@
 title : "Roland Lindh"
 page_header_bg : "images/background/page-title-bg.jpg"
 designation: "Uppsala University"
-image: ""
+image: "images/speakers/lindh.jpg"
 description : ""
 link: "https://katalog.uu.se/profile/?id=N10-584"
 draft : false

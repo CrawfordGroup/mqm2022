@@ -2,7 +2,7 @@
 title : "Olexander Isayev"
 page_header_bg : "images/background/page-title-bg.jpg"
 designation: "Carnegie Mellon University"
-image: ""
+image: "images/speakers/isayev.jpeg"
 description : ""
 link: "https://www.cmu.edu/chemistry/people/faculty/isayev.html"
 draft : false

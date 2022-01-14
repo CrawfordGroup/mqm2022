@@ -1,8 +1,8 @@
 ---
 title : "Kenneth Ruud"
 page_header_bg : "images/background/page-title-bg.jpg"
-designation: "University of Tromsø"
-image: ""
+designation: "UiT The Arctic University of Norway"
+image: "images/speakers/ruud.jpeg"
 description : ""
 link: "https://en.wikipedia.org/wiki/Kenneth_Ruud"
 draft : false

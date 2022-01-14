@@ -2,7 +2,7 @@
 title : "Kieron Burke"
 page_header_bg : "images/background/page-title-bg.jpg"
 designation: "University at California, Irvine"
-image: ""
+image: "images/speakers/burke.jpeg"
 description : ""
 link: "https://www.chem.uci.edu/people/kieron-burke"
 draft : false

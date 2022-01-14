@@ -1,8 +1,8 @@
 ---
-title : "Artur Ismailov"
+title : "Artur Izmailov"
 page_header_bg : "images/background/page-title-bg.jpg"
 designation: "University of Toronto"
-image: ""
+image: "images/speakers/izmailov.jpeg"
 description : ""
 link: "https://www.utsc.utoronto.ca/~aizmaylov/"
 draft : false

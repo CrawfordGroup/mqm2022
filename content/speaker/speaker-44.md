@@ -1,7 +1,7 @@
 ---
 title : "So Hirata"
 page_header_bg : "images/background/page-title-bg.jpg"
-image: ""
+image: "images/speakers/hirata.jpeg"
 designation : "University of Illinois"
 link: "https://chemistry.illinois.edu/sohirata"
 draft : false

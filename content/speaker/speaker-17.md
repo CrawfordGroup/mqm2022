@@ -2,7 +2,7 @@
 title : "Gregory Beran"
 page_header_bg : "images/background/page-title-bg.jpg"
 designation: "University of California, Riverside"
-image: ""
+image: "images/speakers/beran.jpeg"
 description : ""
 link: "https://profiles.ucr.edu/app/home/profile/gregoryb"
 draft : false

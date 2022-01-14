@@ -1,8 +1,8 @@
 ---
 title : "Stella Stopkowicz"
 page_header_bg : "images/background/page-title-bg.jpg"
-designation: "University of Mainz"
-image: ""
+designation: "Universität Mainz"
+image: "images/speakers/stopkowicz.jpeg"
 description : ""
 link: "https://www.blogs.uni-mainz.de/fb09-theoretical-chemistry/dr-stella-stopkowicz/"
 draft : false

@@ -1,7 +1,7 @@
 ---
 title : "Shaama Sharada"
 page_header_bg : "images/background/page-title-bg.jpg"
-image: ""
+image: "images/speakers/sharada.jpeg"
 designation : "University of Southern California"
 link: "https://viterbi.usc.edu/directory/faculty/Sharada/Shaama"
 draft : false

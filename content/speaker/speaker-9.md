@@ -2,7 +2,7 @@
 title : "Roi Baer"
 page_header_bg : "images/background/page-title-bg.jpg"
 designation: "Hebrew University of Jerusalem"
-image: ""
+image: "images/speakers/baer.png"
 description : ""
 link: "https://chemistry.huji.ac.il/people/roi-baer"
 draft : false

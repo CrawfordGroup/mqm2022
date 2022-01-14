@@ -1,7 +1,7 @@
 ---
 title : "Piotr Piecuch"
 page_header_bg : "images/background/page-title-bg.jpg"
-image: ""
+image: "images/speakers/piecuch.jpeg"
 designation : "Michigan State University"
 link: "https://www2.chemistry.msu.edu/faculty/piecuch/"
 draft : false

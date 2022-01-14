@@ -2,7 +2,7 @@
 title : "Angela Wilson"
 page_header_bg : "images/background/page-title-bg.jpg"
 designation: "Michigan State University"
-image: ""
+image: "images/speakers/wilson.jpeg"
 description : ""
 link: "https://www.chemistry.msu.edu/faculty-research/faculty-members/angela-k-wilson/"
 draft : false

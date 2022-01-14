@@ -1,7 +1,7 @@
 ---
 title : "Fang Liu"
 page_header_bg : "images/background/page-title-bg.jpg"
-image: ""
+image: "images/speakers/liu.jpeg"
 designation : "Emory University"
 link: "https://flgroup.emorychem.science/"
 draft : false

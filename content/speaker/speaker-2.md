@@ -2,7 +2,7 @@
 title : "Timothy J. Lee"
 page_header_bg : "images/background/page-title-bg.jpg"
 designation: "NASA Ames Laboratory"
-image: ""
+image: "images/speakers/lee.jpg"
 description : ""
 link: "https://www.nasa.gov/content/timothy-lee"
 draft : false

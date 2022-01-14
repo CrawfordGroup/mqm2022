@@ -1,7 +1,7 @@
 ---
 title : "Martin Head-Gordon"
 page_header_bg : "images/background/page-title-bg.jpg"
-image: ""
+image: "images/conference/mhg.png"
 designation : "University of Calfornia, Berkeley"
 link: "https://mhggroupberkeley.com/"
 draft : false

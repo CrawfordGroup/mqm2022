@@ -1,7 +1,7 @@
 ---
 title : "Heather Kulik"
 page_header_bg : "images/background/page-title-bg.jpg"
-image: ""
+image: "images/speakers/kulik.jpeg"
 designation : "Massachusetts Institute of Technology"
 link: "https://cheme.mit.edu/profile/heather-j-kulik/"
 draft : false

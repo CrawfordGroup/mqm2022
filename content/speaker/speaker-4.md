@@ -2,7 +2,7 @@
 title : "John Perdew"
 page_header_bg : "images/background/page-title-bg.jpg"
 designation: "Temple University"
-image: ""
+image: "images/speakers/perdew.jpeg"
 description : ""
 link: "https://phys.cst.temple.edu/john-perdew.html"
 draft : false

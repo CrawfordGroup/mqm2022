@@ -1,8 +1,8 @@
 ---
 title : "Andreas Dreuw"
 page_header_bg : "images/background/page-title-bg.jpg"
-designation: "University of Heidelberg"
-image: ""
+designation: "Universität Heidelberg"
+image: "images/speakers/dreuw.jpeg"
 description : ""
 draft : false
 link: "https://wwwagdreuw.iwr.uni-heidelberg.de/andreas_dreuw.php"

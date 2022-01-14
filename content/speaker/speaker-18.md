@@ -2,7 +2,7 @@
 title : "Matthias Ernzerhof"
 page_header_bg : "images/background/page-title-bg.jpg"
 designation: "University of Montreal"
-image: ""
+image: "images/speakers/ernzerhof.jpeg"
 description : ""
 link: "https://recherche.umontreal.ca/english/our-researchers/professors-directory/researcher/is/in14628/"
 draft : false

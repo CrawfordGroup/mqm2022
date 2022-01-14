@@ -1,7 +1,7 @@
 ---
 title : "Amir Karton"
 page_header_bg : "images/background/page-title-bg.jpg"
-image: ""
+image: "images/speakers/karton.jpeg"
 designation : "University of Western Australia"
 link: "https://www.chemtheorist.com/"
 draft : false

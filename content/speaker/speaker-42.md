@@ -1,7 +1,7 @@
 ---
 title : "Paul Zimmerman"
 page_header_bg : "images/background/page-title-bg.jpg"
-image: ""
+image: "images/speakers/zimmerman.jpg"
 designation : "University of Michigan"
 link: "https://lsa.umich.edu/chem/people/faculty/paulzim.html"
 draft : false

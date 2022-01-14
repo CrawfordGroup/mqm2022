@@ -1,7 +1,7 @@
 ---
 title : "Gustavo Scuseria"
 page_header_bg : "images/background/page-title-bg.jpg"
-image: ""
+image: "images/conference/ges.jpg"
 designation : "Rice University"
 link: "http://scuseria.rice.edu/"
 draft : false

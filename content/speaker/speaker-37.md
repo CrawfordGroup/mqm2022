@@ -2,7 +2,7 @@
 title : "Alexander Sokolov"
 page_header_bg : "images/background/page-title-bg.jpg"
 designation: "The Ohio State University"
-image: ""
+image: "images/speakers/sokolov.jpg"
 description : ""
 link: "https://chemistry.osu.edu/people/sokolov.8"
 draft : false

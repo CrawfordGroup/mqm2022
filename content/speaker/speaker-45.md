@@ -1,7 +1,7 @@
 ---
 title : "Hiromi Nakai"
 page_header_bg : "images/background/page-title-bg.jpg"
-image: ""
+image: "images/speakers/nakai.jpeg"
 designation : "Waseda University"
 link: "https://waseda.pure.elsevier.com/en/persons/hiromi-nakai"
 draft : false

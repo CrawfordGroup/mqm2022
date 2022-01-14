@@ -1,8 +1,8 @@
 ---
-title : "Juergen Gauss"
+title : "Jürgen Gauß"
 page_header_bg : "images/background/page-title-bg.jpg"
-designation: "University of Mainz"
-image: ""
+designation: "Universität Mainz"
+image: "images/speakers/gauss.jpeg"
 description : ""
 link: "https://www.tc.uni-mainz.de/prof-dr-juergen-gauss/"
 draft : false

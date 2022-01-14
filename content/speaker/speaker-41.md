@@ -1,8 +1,8 @@
 ---
 title : "Joachim Werner"
 page_header_bg : "images/background/page-title-bg.jpg"
-image: ""
-designation : "University of Stuttgart"
+image: "images/speakers/werner.jpg"
+designation : "Universität Stuttgart"
 link: "https://www.itheoc.uni-stuttgart.de/research/werner/"
 draft : false
 social:

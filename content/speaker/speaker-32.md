@@ -2,7 +2,7 @@
 title : "Thomas Pedersen"
 page_header_bg : "images/background/page-title-bg.jpg"
 designation: "University of Oslo"
-image: ""
+image: "images/speakers/pedersen.jpeg"
 description : ""
 link: "https://www.mn.uio.no/kjemi/english/people/aca/thomabp/"
 draft : false

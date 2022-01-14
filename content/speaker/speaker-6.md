@@ -2,7 +2,7 @@
 title : "Rodney J. Bartlett"
 page_header_bg : "images/background/page-title-bg.jpg"
 designation: "University of Florida"
-image: ""
+image: "images/speakers/bartlett.png"
 description : ""
 link: "https://en.wikipedia.org/wiki/Rodney_J._Bartlett"
 draft : false

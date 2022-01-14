@@ -2,7 +2,7 @@
 title : "Tamar Stein"
 page_header_bg : "images/background/page-title-bg.jpg"
 designation: "Hebrew University of Jerusalem"
-image: ""
+image: "images/speakers/stein.png"
 description : ""
 link: "https://steinresearch.huji.ac.il/"
 draft : false

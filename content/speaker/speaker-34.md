@@ -2,7 +2,7 @@
 title : "Peter Pulay"
 page_header_bg : "images/background/page-title-bg.jpg"
 designation: "University of Arkansas"
-image: ""
+image: "images/speakers/pulay.jpeg"
 description : ""
 link: "https://fulbright.uark.edu/departments/chemistry/directory/profile.php?uId=pulay"
 draft : false

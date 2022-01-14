@@ -1,8 +1,8 @@
 ---
 title : "Frank Neese"
 page_header_bg : "images/background/page-title-bg.jpg"
-designation: "Max Planck Institute for Coal Research"
-image: ""
+designation: "Max-Planck-Institut für Kohlenforschung"
+image: "images/speakers/neese.png"
 description : ""
 link: "https://www.kofo.mpg.de/en/research/molecular-theory-and-spectroscopy"
 draft : false

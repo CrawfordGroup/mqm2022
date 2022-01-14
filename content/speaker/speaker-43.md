@@ -1,7 +1,7 @@
 ---
 title : "Sharon Hammes-Schiffer"
 page_header_bg : "images/background/page-title-bg.jpg"
-image: ""
+image: "images/speakers/hammes-schiffer.jpeg"
 designation : "Yale University"
 link: "https://www.hammes-schiffer-group.org/"
 draft : false

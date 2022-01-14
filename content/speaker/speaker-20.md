@@ -1,8 +1,8 @@
 ---
 title : "Andreas Savin"
 page_header_bg : "images/background/page-title-bg.jpg"
-designation: "Laboratoire de Chimie Theorique"
-image: ""
+designation: "Sorbonne Université"
+image: "images/speakers/savin.jpeg"
 description : ""
 link: "https://www.lct.jussieu.fr/pagesperso/savin/"
 draft : false

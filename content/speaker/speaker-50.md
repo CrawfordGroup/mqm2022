@@ -1,7 +1,7 @@
 ---
 title : "Samer Gozem"
 page_header_bg : "images/background/page-title-bg.jpg"
-image: ""
+image: "images/speakers/gozem.jpeg"
 designation : "Georgia State University"
 link: "https://cas.gsu.edu/profile/samer-gozem/"
 draft : false

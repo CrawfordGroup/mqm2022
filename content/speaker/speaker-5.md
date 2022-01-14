@@ -2,7 +2,7 @@
 title : "Krishnan Raghavachari"
 page_header_bg : "images/background/page-title-bg.jpg"
 designation: "Indiana University"
-image: ""
+image: "images/speakers/raghavachari.jpeg"
 description : ""
 link: "https://en.wikipedia.org/wiki/Krishnan_Raghavachari"
 draft : false

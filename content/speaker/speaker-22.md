@@ -2,7 +2,7 @@
 title : "John Herbert"
 page_header_bg : "images/background/page-title-bg.jpg"
 designation: "The Ohio State University"
-image: ""
+image: "images/speakers/herbert.jpeg"
 description : ""
 link: "https://chemistry.osu.edu/people/herbert.44"
 draft : false

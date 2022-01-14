@@ -2,7 +2,7 @@
 title : "C. David Sherrill"
 page_header_bg : "images/background/page-title-bg.jpg"
 designation: "Georgia Tech"
-image: ""
+image: "images/speakers/sherrill.png"
 description : ""
 link: "https://en.wikipedia.org/wiki/David_Sherrill"
 draft : false

@@ -2,7 +2,7 @@
 title : "Nicholas Mayhall"
 page_header_bg : "images/background/page-title-bg.jpg"
 designation: "Virginia Tech"
-image: ""
+image: "images/speakers/mayhall.jpeg"
 description : ""
 link: "https://chem.vt.edu/people/faculty/teaching-and-research/nmayhall.html"
 draft : false
