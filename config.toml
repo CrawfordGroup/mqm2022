@@ -186,5 +186,5 @@ link = "https://www.facebook.com/search/top/?q=MQM2022"
 [[params.social]]
 title = "twitter"
 icon = "fa-twitter" # fontawesome icon pack v4.7 https://fontawesome.com/v4.7.0/icons/
-link = "https://twitter.com/search?q=%23MQM2022"
+link = "https://twitter.com/hashtag/MQM2022?&f=live"
 
