@@ -75,6 +75,7 @@
 	  		font-size: 15px;
   		    padding: 10px 0;
   		    transition: .3s ease;
+            font-family: $secondary-font;
   		    &:not(:last-child){
   		    	border-bottom: 1px solid $border-color;
   		    }

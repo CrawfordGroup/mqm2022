@@ -570,7 +570,8 @@ select.form-control:not([size]):not([multiple]) {
       .main-nav .dropdown-slide .dropdown-menu .dropdown-item {
         font-size: 15px;
         padding: 10px 0;
-        transition: .3s ease; }
+        transition: .3s ease;
+        font-family: "Montserrat", sans-serif; }
         .main-nav .dropdown-slide .dropdown-menu .dropdown-item:not(:last-child) {
           border-bottom: 1px solid #e5e5e5; }
         .main-nav .dropdown-slide .dropdown-menu .dropdown-item:hover {
