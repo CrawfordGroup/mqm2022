@@ -1,10 +1,10 @@
 ---
-title : "John Perdew"
+title : "Henry F. Schaefer, III"
 page_header_bg : "images/background/page-title-bg.jpg"
-designation: "Temple University"
-image: "images/speakers/perdew.jpeg"
+designation: "University of Georgia"
+image: "images/conference/hfs.jpg"
 description : ""
-link: "https://phys.cst.temple.edu/john-perdew.html"
+link: "https://en.wikipedia.org/wiki/Henry_F._Schaefer_III"
 draft : false
 social:
 - name: "Institute Website"
