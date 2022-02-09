@@ -1134,12 +1134,12 @@
 			}
 		}
 		.image-block{
-			padding: 45px 0;
+			padding: 15px 0;
 			background: $light;
-			width: 244px;
+			width: 224px;
 			cursor: pointer;
 			transition: all .3s ease;
-			border: 1px solid transparent;
+			border: 1px solid;
 			img{
 				height: 55px;
 			}

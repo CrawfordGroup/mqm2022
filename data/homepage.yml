@@ -280,42 +280,27 @@ call_to_action:
 
 ############### Sponsors ##################
 sponsors:
-  enable : false
-  title : "Our _Sponsors_"
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusm tempor incididunt ut labore dolore"
+  enable : true
+  title : "MQM 2022 _Sponsors_"
+  content : "We are grateful to the following sponsors for their generous
+  support of MQM 2022."
   button:
     enable : true
     label : "Become a sponsor"
-    link : "#"
-  sponsor_group:
-  - name : "Platinum Sponsors"
-    sponsor_item:
+    link : "mailto:crawdad@vt.edu"
+  sponsor_item:
     - name : "sponsor"
-      logo : "images/sponsors/pt-spon-two.png"
-      link : "#"
+      logo : "images/sponsors/Q-Chem.png"
+      link : "https://www.q-chem.com/"
       
     - name : "sponsor"
-      logo : "images/sponsors/pt-spon-three.png"
-      link : "#"
+      logo : "images/sponsors/JPCA_logo_RGB.jpg"
+      link : "https://pubs.acs.org/journal/jpcafh"
       
     - name : "sponsor"
-      logo : "images/sponsors/pt-spon-four.png"
-      link : "#"
-      
+      logo : "images/sponsors/JCP.jpg"
+      link : "https://aip.scitation.org/journal/jcp"
+
     - name : "sponsor"
-      logo : "images/sponsors/pt-spon-three.png"
-      link : "#"
-      
-  - name : "Gold Sponsors"
-    sponsor_item:
-    - name : "sponsor"
-      logo : "images/sponsors/gl-spon-two.png"
-      link : "#"
-      
-    - name : "sponsor"
-      logo : "images/sponsors/gl-spon-three.png"
-      link : "#"
-      
-    - name : "sponsor"
-      logo : "images/sponsors/gl-spon-one.png"
-      link : "#"
+      logo : "images/sponsors/cos.png"
+      link : "https://www.science.vt.edu/"

@@ -421,11 +421,6 @@
     </div>
     <div class="row">
       <div class="col-12">
-        {{range .sponsor_group }}
-        <!-- Title -->
-        <div class="sponsor-title text-center">
-          <h5>{{ .name | markdownify }}</h5>
-        </div>
         <div class="block text-center">
           <!-- Sponsors image list -->
           <ul class="list-inline sponsors-list">
@@ -440,7 +435,6 @@
             {{ end }}
           </ul>
         </div>
-        {{ end }}
         {{ if .button.enable }}
         {{ with .button }}
         <div class="sponsor-btn text-center">
