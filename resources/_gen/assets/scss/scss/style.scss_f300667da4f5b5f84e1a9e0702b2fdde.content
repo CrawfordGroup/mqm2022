@@ -1564,7 +1564,7 @@ select.form-control:not([size]):not([multiple]) {
         margin-right: 7px;
         margin-left: 7px; } }
     .sponsors .block .image-block {
-      padding: 15px 0;
+      padding: 15px 10px;
       background: #fff;
       width: 224px;
       cursor: pointer;
