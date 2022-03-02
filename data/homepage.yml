@@ -308,3 +308,8 @@ sponsors:
     - name : "sponsor"
       logo : "images/sponsors/RSC_PCCP.png"
       link : "https://www.rsc.org/journals-books-databases/about-journals/PCCP/"
+
+
+############ News ########
+news:
+  enable: true
