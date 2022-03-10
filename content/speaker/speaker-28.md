@@ -2,7 +2,7 @@
 title : "Eva Zurek"
 page_header_bg : "images/background/page-title-bg.jpg"
 designation: "University at Buffalo"
-image: "images/speakers/zurek.jpeg"
+image: "images/speakers/eva-zurek-ub.jpeg"
 description : ""
 link: "https://arts-sciences.buffalo.edu/chemistry/faculty/faculty-directory/zurek.html"
 draft : false
