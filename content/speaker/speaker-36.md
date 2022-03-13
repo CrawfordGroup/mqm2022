@@ -2,7 +2,7 @@
 title : "Elfi Kraka"
 page_header_bg : "images/background/page-title-bg.jpg"
 designation: "Southern Methodist University"
-image: "images/speakers/kraka.jpeg"
+image: "images/speakers/EK_Picture.jpg"
 description : ""
 link: "https://www.smu.edu/Dedman/Academics/Departments/Chemistry/People/Faculty/ElfiKraka"
 draft : false
