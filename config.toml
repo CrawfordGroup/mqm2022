@@ -125,6 +125,11 @@ weight = 6
   url = "history"
   weight = 5
 
+  [[menu.main]]
+  parent = "More Info"
+  name = "COVID"
+  url = "covid"
+  weight = 6
 
 #################### default parameters ################################
 [params]

@@ -37,5 +37,5 @@ registration rates are available for students and early registrants.
 Banquet costs are included in the registration fees, and additional banquet
 tickets are available for guests for $60 each.
 <br/><br/>
-Early-bird registration ends <b>March 31st, 2022</b>; standard fees will apply
-starting April 1st until the beginning of the conference.
+Early-bird registration ends <b>April 15th, 2022</b>; standard fees will apply
+starting April 16th until the beginning of the conference.
