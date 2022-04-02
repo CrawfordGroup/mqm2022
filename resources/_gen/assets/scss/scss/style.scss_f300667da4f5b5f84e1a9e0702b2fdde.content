@@ -402,7 +402,7 @@ select.form-control:not([size]):not([multiple]) {
     padding: 0;
     margin-right: 10px;
     border: 0;
-    color: #848484; }
+    color: #ff6600; }
     .pagination .page-item .page-link:hover {
       background: #ff6600;
       color: #fff; }

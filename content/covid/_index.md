@@ -21,13 +21,14 @@ were required to be vaccinated or submit to regular testing.<br/><br/>
 Please note the following as you prepare to travel to MQM 2022:
 <ul>
 
-<li>Current <a
+<li>Current <a style="color:#ff6600"
 href="https://www.cdc.gov/coronavirus/2019-ncov/travelers/index.html">CDC
 policy</a> requires participants from abroad to provide proof of a negative test
 for COVID within one calendar day of departure in order to travel to the
 U.S.</li>
 
-<li>In adherance to Virginia Tech guidelines, all attendees of MQM are
+<li>In adherance to <a style="color:#ff6600"
+href="https://ready.vt.edu/">Virginia Tech guidelines</a>, all attendees of MQM are
 expected to provide attestation of vaccination upon request.</li>
 </ul>
 
