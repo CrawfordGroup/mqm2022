@@ -48,7 +48,7 @@
           <img class="img-fluid" src="{{ .image | absURL }}">
         </div>
       </div>
-      <div class="col-lg6 col-md-6 align-self-center">
+      <div class="col-lg-6 col-md-6 align-self-center">
         <div class="content-block">
           <h2>{{.title | markdownify}}</h2>
           <div class="description-one">
@@ -70,6 +70,23 @@
             {{ end }}
             {{ end }}
           </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 col-md-12 align-self-center">
+        <div class="content-block">
+
+    {{ if .announcement.enable }}
+    {{ with .announcement }}
+    <center>
+    <h4 style="color:#ff6600">{{ .content | markdownify }}</h4>
+    </center>
+    {{ end }}
+    {{ end }}
+
         </div>
       </div>
     </div>

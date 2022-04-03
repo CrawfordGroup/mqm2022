@@ -42,6 +42,10 @@ We anticipate more than 60 invited lectures and dozens of contributed posters (p
     label : "Read more"
     link : "about"
 
+  announcement:
+    enable : true
+    content : "Abstract Deadline: June 10th, 2022"
+
 ################# Honorees ###################
 honorees:
   enable : true
