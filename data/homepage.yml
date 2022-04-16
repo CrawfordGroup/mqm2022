@@ -313,6 +313,10 @@ sponsors:
       logo : "images/sponsors/RSC_PCCP.png"
       link : "https://www.rsc.org/journals-books-databases/about-journals/PCCP/"
 
+    - name : "sponsor"
+      logo : "images/sponsors/Turbomole.png"
+      link : "https://www.turbomole.org/"
+
 
 ############ News ########
 news:
