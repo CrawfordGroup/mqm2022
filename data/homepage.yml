@@ -317,6 +317,10 @@ sponsors:
       logo : "images/sponsors/Turbomole.png"
       link : "https://www.turbomole.org/"
 
+    - name : "sponsor"
+      logo : "images/sponsors/jctc_logo.jpg"
+      link : "https://pubs.acs.org/journal/jctcce"
+
 
 ############ News ########
 news:
