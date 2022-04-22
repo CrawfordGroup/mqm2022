@@ -321,6 +321,10 @@ sponsors:
       logo : "images/sponsors/jctc_logo.jpg"
       link : "https://pubs.acs.org/journal/jctcce"
 
+    - name : "sponsor"
+      logo : "images/sponsors/PSClogo_primary_Gradient.png"
+      link : "https://www.psc.edu/"
+
 
 ############ News ########
 news:
