@@ -102,6 +102,8 @@ tablist:
     venue : "Goodwin Hall"
 
 ---
-## Tentative MQM 2022 Schedule
+## MQM 2022 Schedule Overview
 
-All times Eastern Daylight Time.
+The detailed schedule is available <a href="https://docs.google.com/spreadsheets/d/1cBcvVnMYOnr2CQdLkzlO37fl7wIZI-LOpA8OcOqOsoI/edit?usp=sharing"><b><u>here</u></b></a>.
+
+All times EDT.
