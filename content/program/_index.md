@@ -20,6 +20,17 @@ tablist:
   - time : "7:15 PM - 9:00 PM"
     event : "Conference Opening"
     venue : "Goodwin Hall"
+    sublist : true
+    speaker_list:
+    - time : "7:30 PM - 8:00 PM"
+      speaker : "Sharon Hammes-Schiffer"
+      title : "Goodwin Hall"
+    - time : "8:00 PM - 8:30 PM"
+      speaker : "Teresa Head-Gordon"
+      title : "Goodwin Hall"
+    - time : "8:30 PM - 9:00 PM"
+      speaker : "Ali Alavi"
+      title : "Goodwin Hall"
 
 - name : "Day 2"
   date : "Monday<br/>27 June 2022"
