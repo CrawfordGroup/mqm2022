@@ -325,6 +325,14 @@ sponsors:
       logo : "images/sponsors/PSClogo_primary_Gradient.png"
       link : "https://www.psc.edu/"
 
+    - name : "sponsor"
+      logo : "images/sponsors/molpro.png"
+      link : "https://www.molpro.net/"
+
+    - name : "sponsor"
+      logo : "images/sponsors/molssi.png"
+      link : "https://www.molssi.org/"
+
 
 ############ News ########
 news:
