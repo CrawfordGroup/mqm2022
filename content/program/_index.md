@@ -24,13 +24,15 @@ tablist:
     speaker_list:
     - time : "7:30 PM - 8:00 PM"
       speaker : "Sharon Hammes-Schiffer"
-      title : "Goodwin Hall"
+      link : "abstracts/speakers/Hammes-Schiffer_Sharon.pdf" 
+      title : "Non-Born-Oppenheimer Quantum Dynamics via the Nuclear-Electronic Orbital Approach"
     - time : "8:00 PM - 8:30 PM"
       speaker : "Teresa Head-Gordon"
-      title : "Goodwin Hall"
+      link : "abstracts/speakers/Head-Gordon_Teresa.pdf"
+      title : "Biocatalysts and Synthetic Catalysts: A Needed Partnership between Quantum and Statistical Mechanics"
     - time : "8:30 PM - 9:00 PM"
       speaker : "Ali Alavi"
-      title : "Goodwin Hall"
+      title : "TBA"
 
 - name : "Day 2"
   date : "Monday<br/>27 June 2022"
