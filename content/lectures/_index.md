@@ -253,7 +253,7 @@ tablist:
 
     - time : "11:30 AM - 12:00 PM"
       speaker : "Eugene DePrince"
-      title : "TBA"
+      title : "Ab initio cavity quantum electrodynamics"
       link : "abstracts/lecture/Eugene_DePrince.pdf"
 
     - time : "12:00 PM - 12:30 PM"
