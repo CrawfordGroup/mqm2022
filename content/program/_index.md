@@ -20,19 +20,6 @@ tablist:
   - time : "7:15 PM - 9:00 PM"
     event : "Conference Opening"
     venue : "Goodwin Hall"
-    sublist : true
-    speaker_list:
-    - time : "7:30 PM - 8:00 PM"
-      speaker : "Sharon Hammes-Schiffer"
-      link : "abstracts/speakers/Hammes-Schiffer_Sharon.pdf" 
-      title : "Non-Born-Oppenheimer Quantum Dynamics via the Nuclear-Electronic Orbital Approach"
-    - time : "8:00 PM - 8:30 PM"
-      speaker : "Teresa Head-Gordon"
-      link : "abstracts/speakers/Head-Gordon_Teresa.pdf"
-      title : "Biocatalysts and Synthetic Catalysts: A Needed Partnership between Quantum and Statistical Mechanics"
-    - time : "8:30 PM - 9:00 PM"
-      speaker : "Ali Alavi"
-      title : "TBA"
 
 - name : "Day 2"
   date : "Monday<br/>27 June 2022"
@@ -81,9 +68,12 @@ tablist:
   - time : "12:30 PM - 2:00 PM"
     event : "Lunch"
     venue : "Blacksburg Area"
-  - time : "2:00 PM - 7:00 PM"
-    event : "Free"
-    venue : "Participant's Choice"
+  - time : "2:00 PM - 6:00 PM"
+    event : "Lectures"
+    venue : "Goodwin Hall"
+  - time : "6:00 PM - 7:00 PM"
+    event : "Dinner"
+    venue : "Blacksburg Area"
   - time : "7:00 PM - 9:00 PM"
     event : "Poster Session"
     venue : "Inn at Virginia Tech"
@@ -107,12 +97,9 @@ tablist:
 - name : "Day 6"
   date : "Friday<br/>1 July 2022"
   tablist_items:
-  - time : "9:00 AM - 12:30 PM"
-    event : "Lectures"
-    venue : "Goodwin Hall"
-  - time : "12:30 PM - 1:00 PM"
-    event : "Conference Closing"
-    venue : "Goodwin Hall"
+  - time : "10:00 AM - 11:00 AM"
+    event : "Institute Tour (Optional)"
+    venue : "Molecular Science Software Institute"
 
 ---
 ## MQM 2022 Schedule Overview
