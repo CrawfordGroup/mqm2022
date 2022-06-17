@@ -676,3 +676,5 @@ tablist:
 ---
 ## MQM 2022 Poster Program
 All times EDT.
+
+The maximum allowed poster dimensions are 4-ft by 4-ft. (122-cm by 122-cm).  However, we recommend you choose dimensions slightly smaller than this because the poster display boards are 8-ft wide and thus designed to hold two posters at once.  If you use a poster width smaller than 4-ft, you'll be a good neighbor.
