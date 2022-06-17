@@ -77,8 +77,26 @@ weight = 2
 
 [[menu.main]]
 name = "Program"
-url = "program"
+hasChildren = true
 weight = 3
+
+  [[menu.main]]
+  parent = "Program"
+  name = "Overview"
+  url = "program"
+  weight = 1
+
+  [[menu.main]]
+  parent = "Program"
+  name = "Lectures"
+  url = "lectures"
+  weight = 2
+
+  [[menu.main]]
+  parent = "Program"
+  name = "Posters"
+  url = "posters"
+  weight = 3
 
 [[menu.main]]
 name = "Registration"

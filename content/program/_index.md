@@ -101,8 +101,8 @@ tablist:
   date : "Friday<br/>1 July 2022"
   tablist_items:
   - time : "10:00 AM - 11:00 AM"
-    event : "Tour of the Molecular Sciences Software Institute"
-    venue : "MolSSI HQ"
+    event : "Institute Tour (Optional)"
+    venue : "Molecular Science Software Institute"
 
 ---
 ## MQM 2022 Schedule Overview

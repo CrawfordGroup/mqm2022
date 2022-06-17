@@ -1,0 +1,87 @@
+{{ define "main"}}
+
+<section class="section schedule">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <div class="section-title">
+          {{ .Content }}
+        </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-12">
+        <div class="schedule-tab">
+          <ul class="nav nav-pills text-center">
+            {{ range $i,$p:= .Params.tablist }}
+            <li class="nav-item">
+              <a class="nav-link {{if eq $i 0}} active {{end}}" href="#{{.name|urlize}}" data-toggle="pill">
+                {{.name}}
+                <span>{{ .date | markdownify}}</span>
+              </a>
+            </li>
+            {{ end }}
+          </ul>
+        </div>
+        <div class="schedule-contents bg-schedule">
+          <div class="tab-content" id="pills-tabContent">
+            {{ range $i,$p:= .Params.tablist }}
+            <div class="tab-pane fade {{if eq $i 0}}show active{{end}} schedule-item" id="{{.name | urlize}}">
+              <!-- Headings -->
+              <ul class="m-0 p-0">
+                <li class="headings">
+                  <div class="time">Time</div>
+                  <div class="subject">Event</div>
+                  <div class="venue">Venue</div>
+                </li>
+                <!-- Schedule Details -->
+                {{ range .tablist_items }}
+                <li class="schedule-details">
+                  <div class="block">
+                    <!-- time -->
+                    <div class="time">
+                      <i class="fa fa-clock-o"></i>
+                      <span class="time">{{ .time }}</span>
+                    </div>
+                    <!-- Subject -->
+                    <div class="subject">{{ .event }}</div>
+                    <!-- Venue -->
+                    <div class="venue">{{ .venue | markdownify }}</div>
+                    {{ if .sublist }}
+                    <br/><br/>
+                      <ul class="m-0 p-0">
+                       <li class="headings m-0 p-3">
+                         <div class="time" style="color:#fff">&nbsp;&nbsp;Time</div>
+                         <div class="subject" style="color:#fff">&nbsp;&nbsp;Speaker</div>
+                         <div class="venue" style="color:#fff">&nbsp;</div>
+                       </li>
+                      {{ range .speaker_list }}
+                       <li class="schedule-details">
+                         <div class="block m-0 p-4">
+                           <div class="time">
+                             <i class="fa fa-clock-o m-0 p-0"></i>
+                             <span class="time">{{ .time }}</span>
+                           </div>
+                           <div class="subject">{{ .speaker }}</div><br/>
+                           <div><span class="title">
+                             <a href="{{ .link | absURL }}">{{ .title }}</a>
+                           </span></div>
+                         </div>
+                       </li>
+                      {{ end }}
+                      </ul>
+                    {{ end }}
+                  </div>
+                </li>
+                {{ end }}
+              </ul>
+            </div>
+            {{ end }}
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+{{ end }}

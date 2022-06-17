@@ -1,10 +1,10 @@
 ---
-title : "Ali Alavi"
+title : "Vincent Ortiz"
 page_header_bg : "images/background/page-title-bg.jpg"
-designation: "MPI for Solid State Research and University of Cambridge"
-image: "images/speakers/alavi.jpeg"
+designation: "Auburn University"
+image: "images/speakers/ortiz.jpg"
 description : ""
-link: "https://en.wikipedia.org/wiki/Ali_Alavi"
+link: "https://www.auburn.edu/cosam/faculty/chemistry/ortiz/"
 draft : false
 social:
 - name: "Institute Website"

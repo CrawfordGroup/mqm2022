@@ -47,6 +47,30 @@
                     <div class="subject">{{ .event }}</div>
                     <!-- Venue -->
                     <div class="venue">{{ .venue | markdownify }}</div>
+                    {{ if .sublist }}
+                    <br/><br/>
+                      <ul class="m-0 p-0">
+                       <li class="headings m-0 p-3">
+                         <div class="time" style="color:#fff">&nbsp;&nbsp;Time</div>
+                         <div class="subject" style="color:#fff">&nbsp;&nbsp;Speaker</div>
+                         <div class="venue" style="color:#fff">&nbsp;</div>
+                       </li>
+                      {{ range .speaker_list }}
+                       <li class="schedule-details">
+                         <div class="block m-0 p-4">
+                           <div class="time">
+                             <i class="fa fa-clock-o m-0 p-0"></i>
+                             <span class="time">{{ .time }}</span>
+                           </div>
+                           <div class="subject">{{ .speaker }}</div><br/>
+                           <div><span class="title">
+                             <a href="{{ .link | absURL }}">{{ .title }}</a>
+                           </span></div>
+                         </div>
+                       </li>
+                      {{ end }}
+                      </ul>
+                    {{ end }}
                   </div>
                 </li>
                 {{ end }}

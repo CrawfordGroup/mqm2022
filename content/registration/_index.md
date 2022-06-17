@@ -15,24 +15,26 @@ registration_levels:
 #  price : "$250"
 #  available : "false"
 #  button_link : "#"
-- name : "Student"
-  price : "$350"
-  available : "true"
-  button_link : "https://register.cpe.vt.edu/search/publicCourseSearchDetails.do?method=load&courseId=4623658"
+#- name : "Student"
+#  price : "$350"
+#  available : "true"
+#  button_link : "https://register.cpe.vt.edu/search/publicCourseSearchDetails.do?method=load&courseId=4623658"
 #- name : "Non-Student<br/>(Early-Bird)"
 #  price : "$450"
 #  available : "false"
 #  button_link : "#"
-- name : "Non-Student"
-  price : "$550"
-  available : "true"
-  button_link : "https://register.cpe.vt.edu/search/publicCourseSearchDetails.do?method=load&courseId=4623658"
+#- name : "Non-Student"
+#  price : "$550"
+#  available : "true"
+#  button_link : "https://register.cpe.vt.edu/search/publicCourseSearchDetails.do?method=load&courseId=4623658"
 
 ---
 
 ### Register for MQM 2022
 
-You may register for the conference using the links below.  Special
+<!-- You may register for the conference using the links below.  Special
 registration rates are available for students and early registrants.
 Banquet costs are included in the registration fees, and additional banquet
-tickets are available for guests for $60 each.
+tickets are available for guests for $60 each. -->
+
+Registration for MQM 2022 is closed.
