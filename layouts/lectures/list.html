@@ -53,7 +53,8 @@
                        <li class="headings m-0 p-3">
                          <div class="time" style="color:#fff">&nbsp;&nbsp;Time</div>
                          <div class="subject" style="color:#fff">&nbsp;&nbsp;Speaker</div>
-                         <div class="venue" style="color:#fff">&nbsp;</div>
+                         <div class="venue" style="color:#fff">{{ .sublist
+                         }}</div>
                        </li>
                       {{ range .speaker_list }}
                        <li class="schedule-details">

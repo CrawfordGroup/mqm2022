@@ -20,7 +20,7 @@ tablist:
   - time : "7:15 PM - 9:00 PM"
     event : "Conference Opening"
     venue : "Goodwin Hall"
-    sublist : true
+    sublist : "Session Chair: Edward Valeev"
     speaker_list:
     - time : "7:30 PM - 8:00 PM"
       speaker : "Sharon Hammes-Schiffer"
@@ -43,7 +43,7 @@ tablist:
   - time : "9:00 AM - 12:30 PM"
     event : "Lectures"
     venue : "Goodwin Hall"
-    sublist : true
+    sublist : "Session Chair: Carol Parish"
     speaker_list:
     - time : "9:00 AM - 9:30 AM"
       speaker : "Rodney J. Bartlett"
@@ -84,7 +84,7 @@ tablist:
   - time : "2:00 PM - 6:00 PM"
     event : "Lectures"
     venue : "Goodwin Hall"
-    sublist : true
+    sublist : "Session Chair: Eugene DePrince"
     speaker_list:
     - time : "2:00 PM - 2:30 PM"
       speaker : "David R. Yarkony"
@@ -132,7 +132,7 @@ tablist:
   - time : "9:00 AM - 12:30 PM"
     event : "Lectures"
     venue : "Goodwin Hall"
-    sublist : true
+    sublist : "Session Chair: Aurora Clark"
     speaker_list:
     - time : "9:00 AM - 9:30 AM"
       speaker : "Frank Neese"
@@ -173,7 +173,7 @@ tablist:
   - time : "2:00 PM - 6:00 PM"
     event : "Lectures"
     venue : "Goodwin Hall"
-    sublist : true
+    sublist : "Session Chair: Ryan Fortenberry"
     speaker_list:
     - time : "2:00 PM - 2:30 PM"
       speaker : "Juergen Gauss"
@@ -226,7 +226,7 @@ tablist:
   - time : "9:00 AM - 12:30 PM"
     event : "Lectures"
     venue : "Goodwin Hall"
-    sublist : true
+    sublist : "Session Chair: Rollin King"
     speaker_list:
     - time : "9:00 AM - 9:30 AM"
       speaker : "Joachim Sauer"
@@ -267,7 +267,7 @@ tablist:
   - time : "2:00 PM - 6:00 PM"
     event : "Lectures"
     venue : "Goodwin Hall"
-    sublist : true
+    sublist : "Session Chair: Susi Lehtola"
     speaker_list:
     - time : "2:00 PM - 2:30 PM"
       speaker : "Alexander Sokolov"
@@ -321,7 +321,7 @@ tablist:
   - time : "9:00 AM - 12:30 PM"
     event : "Lectures"
     venue : "Goodwin Hall"
-    sublist : true
+    sublist : "Session Chair: Sharani Roy"
     speaker_list:
     - time : "9:00 AM - 9:30 AM"
       speaker : "Roland Lindh"
@@ -362,7 +362,7 @@ tablist:
   - time : "2:00 PM - 6:00 PM"
     event : "Lectures"
     venue : "Goodwin Hall"
-    sublist : true
+    sublist : "Session Chair: Vince Ortiz"
     speaker_list:
     - time : "2:00 PM - 2:30 PM"
       speaker : "C. David Sherrill"
