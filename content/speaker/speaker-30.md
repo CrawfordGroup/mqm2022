@@ -1,10 +1,10 @@
 ---
-title : "Olexander Isayev"
+title : "Eugene DePrince"
 page_header_bg : "images/background/page-title-bg.jpg"
-designation: "Carnegie Mellon University"
-image: "images/speakers/isayev.jpeg"
+designation: "Florida State University"
+image: "images/speakers/deprince.jpeg"
 description : ""
-link: "https://www.cmu.edu/chemistry/people/faculty/isayev.html"
+link: "https://www.chem.fsu.edu/~deprince/"
 draft : false
 social:
 - name: "Institute Website"
