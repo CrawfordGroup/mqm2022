@@ -38,9 +38,9 @@ tablist:
     link : "abstracts/poster/Ashutosh_Kumar.pdf"
 
   - poster : "07"
-    presenter : "Benjamin G Peyton"
-    title : "Interpretation and Optimization of Orbital Spaces in Real-Time Coupled Cluster"
-    link : "abstracts/poster/Benjamin_G_Peyton.pdf"
+    presenter : "Ayush Asthana"
+    title : "Equation of motion variational quantum eigensolver (EOM-VQE) method for molecular excitation energy, ionization potential and electron affinity"
+    link : "abstracts/poster/Ayush_Asthana.pdf"
 
   - poster : "08"
     presenter : "Brandon Cooper"
@@ -479,9 +479,9 @@ tablist:
     link : "abstracts/poster/Arailym_Kairalapova.pdf"
 
   - poster : "06"
-    presenter : "Ayush Asthana"
-    title : "Equation of motion variational quantum eigensolver (EOM-VQE) method for molecular excitation energy, ionization potential and electron affinity"
-    link : "abstracts/poster/Ayush_Asthana.pdf"
+    presenter : "Benjamin G Peyton"
+    title : "Interpretation and Optimization of Orbital Spaces in Real-Time Coupled Cluster"
+    link : "abstracts/poster/Benjamin_G_Peyton.pdf"
 
   - poster : "07"
     presenter : "Bimal Gaudel"
