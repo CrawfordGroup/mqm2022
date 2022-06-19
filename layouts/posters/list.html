@@ -31,13 +31,13 @@
               <ul class="m-0 p-0">
                 <li class="headings">
                   <div class="time">Poster Number</div>
-                  <div class="subject">Presenter</div>
+                  <div class="speaker">Presenter</div>
                 </li>
                 <!-- Schedule Details -->
                 {{ range .tablist_items }}
                 <li class="schedule-details">
                   <div class="block">
-                    <div class="time"> <span class="subject">{{ .poster }}</span> </div>
+                    <div class="time"> <span class="speaker">{{ .poster }}</span> </div>
                     <div class="name">{{ .presenter }}</div><br/>
                     <div><span class="title"> <a href="{{ .link | absURL }}">{{ .title }}</a> </span></div>
                   </div>

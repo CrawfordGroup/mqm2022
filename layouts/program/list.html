@@ -31,7 +31,7 @@
               <ul class="m-0 p-0">
                 <li class="headings">
                   <div class="time">Time</div>
-                  <div class="subject">Event</div>
+                  <div class="speaker">Event</div>
                   <div class="venue">Venue</div>
                 </li>
                 <!-- Schedule Details -->
@@ -44,7 +44,7 @@
                       <span class="time">{{ .time }}</span>
                     </div>
                     <!-- Subject -->
-                    <div class="subject">{{ .event }}</div>
+                    <div class="speaker">{{ .event }}</div>
                     <!-- Venue -->
                     <div class="venue">{{ .venue | markdownify }}</div>
                     {{ if .sublist }}
