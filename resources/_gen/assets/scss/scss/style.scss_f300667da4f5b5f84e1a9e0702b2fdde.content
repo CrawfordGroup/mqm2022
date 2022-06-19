@@ -220,8 +220,7 @@ button:hover {
   background-position: center center; }
 
 .bg-schedule {
-  background: url(../images/background/schedule-bg.png) no-repeat;
-  background-size: cover; }
+  background: url(../images/background/schedule-bg.png) repeat-y; }
 
 .bg-service {
   background: url(../images/background/feature-background.jpg) no-repeat;
