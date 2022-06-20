@@ -404,6 +404,6 @@ tablist:
     venue : "Molecular Science Software Institute"
 
 ---
-## MQM 2022 Detailed Schedule
+## MQM 2022 Detailed Program
 
 All times EDT.

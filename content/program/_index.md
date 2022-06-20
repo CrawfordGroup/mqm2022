@@ -1,8 +1,8 @@
 ---
-title : "MQM 2022 Program"
+title : "MQM 2022 Program Overview"
 page_header_bg : "images/background/homepage-one-banner.jpg"
 date: 2020-03-14T15:40:24+06:00
-description: "MQM 2022 Program"
+description: "MQM 2022 Program Overview"
 draft : false
 tablist:
 - name : "Day 1"
@@ -105,7 +105,7 @@ tablist:
     venue : "Molecular Science Software Institute"
 
 ---
-## MQM 2022 Schedule Overview
+## MQM 2022 Program Overview
 
 <!-- The detailed schedule is available <a
 href="https://docs.google.com/spreadsheets/d/1cBcvVnMYOnr2CQdLkzlO37fl7wIZI-LOpA8OcOqOsoI/edit?usp=sharing"><b><u>here</u></b></a>.
