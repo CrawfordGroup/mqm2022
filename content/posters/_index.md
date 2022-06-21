@@ -213,21 +213,16 @@ tablist:
     link : "abstracts/poster/Verena_A._Neufeld.pdf"
 
   - poster : "42"
-    presenter : "Wilson K. Gichuhi"
-    title : "Utilization of a Harmonic Oscillator Model to Calculate Franck-Condon Factors of Deprotonated Cyano and Dicyano Benzonitriles"
-    link : "abstracts/poster/Wilson_K._Gichuhi.pdf"
-
-  - poster : "43"
     presenter : "Xuechen Xheng"
     title : "Relativistic Coupled-Cluster Techniques for Calculation of X-ray Spectroscopy"
     link : "abstracts/poster/Xuechen_Xheng.pdf"
 
-  - poster : "44"
+  - poster : "43"
     presenter : "Yi-Fan Yang"
     title : "Non-charge-separated states of endohedral/endocircular alkali carbon allotropes"
     link : "abstracts/poster/Yi-Fan_Yang.pdf"
 
-  - poster : "45"
+  - poster : "44"
     presenter : "Jonathan Misiewicz"
     title : "Hardware Implementation of the Projective Quantum Eigensolver"
     link : "abstracts/poster/Jonathan_Misiewicz.pdf"
@@ -664,16 +659,21 @@ tablist:
     link : "abstracts/poster/Warahena_Mudalige_Uvin_Geesara_De_Alwis.pdf"
 
   - poster : "42"
+    presenter : "Wilson K. Gichuhi"
+    title : "Utilization of a Harmonic Oscillator Model to Calculate Franck-Condon Factors of Deprotonated Cyano and Dicyano Benzonitriles"
+    link : "abstracts/poster/Wilson_K._Gichuhi.pdf"
+
+  - poster : "43"
     presenter : "Xiuyi Qin"
     title : "Anharmonic Phonon Dispersion in Polyethylene"
     link : "abstracts/poster/Xiuyi_Qin.pdf"
 
-  - poster : "43"
+  - poster : "44"
     presenter : "Yi Zheng"
     title : "Tuning the Catalytic Activity of the Synthetic Enzyme KE15 with DNA"
     link : "abstracts/poster/Yi_Zheng.pdf"
 
-  - poster : "44"
+  - poster : "45"
     presenter : "Zhijian Chen"
     title : "Spin-Flip Characterization of Thiophene Diradical Isomers"
     link : "abstracts/poster/Zhijian_Chen.pdf"
