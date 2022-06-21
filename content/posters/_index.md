@@ -218,14 +218,19 @@ tablist:
     link : "abstracts/poster/Wilson_K._Gichuhi.pdf"
 
   - poster : "43"
-    presenter : "xuechen zheng"
+    presenter : "Xuechen Xheng"
     title : "Relativistic Coupled-Cluster Techniques for Calculation of X-ray Spectroscopy"
-    link : "abstracts/poster/xuechen_zheng.pdf"
+    link : "abstracts/poster/Xuechen_Xheng.pdf"
 
   - poster : "44"
-    presenter : "yifan yang"
+    presenter : "Yi-Fan Yang"
     title : "Non-charge-separated states of endohedral/endocircular alkali carbon allotropes"
-    link : "abstracts/poster/yifan_yang.pdf"
+    link : "abstracts/poster/Yi-Fan_Yang.pdf"
+
+  - poster : "45"
+    presenter : "Jonathan Misiewicz"
+    title : "Hardware Implementation of the Projective Quantum Eigensolver"
+    link : "abstracts/poster/Jonathan_Misiewicz.pdf"
 
 - name : "Poster Session 2"
   date : "Tuesday<br/>28 June 2022<br/>7:00 PM - 9:00 PM<br/>The Inn at Virginia Tech"
@@ -272,7 +277,7 @@ tablist:
 
   - poster : "09"
     presenter : "Carrie R Salmon"
-    title : "THEORETICAL MECHANISTIC STUDIES OF THE GUT MICROBIAL CHOLINE-TMA LYASE ENZYME CUTC"
+    title : "Theoretical Mechanistic Studies of the Gut Microbial Choline-TMA Lyase Enzyme CutC"
     link : "abstracts/poster/Carrie_R_Salmon.pdf"
 
   - poster : "10"
@@ -372,13 +377,13 @@ tablist:
 
   - poster : "29"
     presenter : "Nils Oberhof"
-    title : "COUPLED BUT INDIVIDUAL: MULTIPLE AZOBENZENES IN ONE MOLECULE"
+    title : "Coupled But Individual: Multiple Azobenzenes in One Molecule"
     link : "abstracts/poster/Nils_Oberhof.pdf"
 
   - poster : "30"
-    presenter : "PRATIKSHA BALASAHEB GAIKWAD"
+    presenter : "Pratiksha Balasaheb Gaikwad"
     title : "Incorporating Orbital Rotations in a Natural Way in 1-Reference Geminal Coupled Cluster Method"
-    link : "abstracts/poster/PRATIKSHA_BALASAHEB_GAIKWAD.pdf"
+    link : "abstracts/poster/Pratiksha_Balasaheb_Gaikwad.pdf"
 
   - poster : "31"
     presenter : "Renke Huang"
@@ -427,7 +432,7 @@ tablist:
 
   - poster : "40"
     presenter : "Travis Greene"
-    title : "BERGMAN CYCLIZATION OF MALEIMIDE-BASED ENEDIYNES"
+    title : "Bergman Cyclization of Maleimide-Based Enediynes"
     link : "abstracts/poster/Travis_Greene.pdf"
 
   - poster : "41"
@@ -570,7 +575,7 @@ tablist:
 
   - poster : "24"
     presenter : "Marco Bauer"
-    title : "PERTURBATION THEORETICAL APPROACH TO STRONG LIGHT-MATTER COUPLING"
+    title : "Perturbation Theoretical Approach to Strong Light-Matter Coupling"
     link : "abstracts/poster/Marco_Bauer.pdf"
 
   - poster : "25"
@@ -654,9 +659,9 @@ tablist:
     link : "abstracts/poster/Vaibhav_Singh.pdf"
 
   - poster : "41"
-    presenter : "WARAHENA MUDALIGE UVIN GEESARA DE ALWIS"
+    presenter : "Warahena Mudalige Uvin Geesara De Alwis"
     title : "Assembling Low Dimensional Material Composites for Applications in Photonics"
-    link : "abstracts/poster/WARAHENA_MUDALIGE_UVIN_GEESARA_DE_ALWIS.pdf"
+    link : "abstracts/poster/Warahena_Mudalige_Uvin_Geesara_De_Alwis.pdf"
 
   - poster : "42"
     presenter : "Xiuyi Qin"
