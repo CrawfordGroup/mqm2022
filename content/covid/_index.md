@@ -24,5 +24,6 @@ longer requires</a> air passengers traveling from a foreign country to the
 United States to show a negative COVID-19 viral test or documentation of
 recovery from COVID-19 before they board their flight.
 
+<br/>
 Virginia Tech is strongly committed to providing a thoroughly safe and healthy
 community. 
