@@ -18,19 +18,11 @@ Virginia Tech students will be far away from Blacksburg enjoying summer
 vacation.  As of August 2021, all Virginia Tech faculty, staff, and students
 were required to be vaccinated or submit to regular testing.<br/><br/>
 
-Please note the following as you prepare to travel to MQM 2022:
-<ul>
-
-<li>Current <a style="color:#ff6600"
-href="https://www.cdc.gov/coronavirus/2019-ncov/travelers/index.html">CDC
-policy</a> requires participants from abroad to provide proof of a negative test
-for COVID within one calendar day of departure in order to travel to the
-U.S.</li>
-
-<li>In adherance to <a style="color:#ff6600"
-href="https://ready.vt.edu/">Virginia Tech guidelines</a>, all attendees of MQM are
-expected to provide attestation of vaccination upon request.</li>
-</ul>
+Please note that, as of June 12, 2022, the U.S. <a
+href="https://www.cdc.gov/coronavirus/2019-ncov/travelers/international-travel/index.html">no
+longer requires</a> air passengers traveling from a foreign country to the
+United States to show a negative COVID-19 viral test or documentation of
+recovery from COVID-19 before they board their flight.
 
 Virginia Tech is strongly committed to providing a thoroughly safe and healthy
 community. 
