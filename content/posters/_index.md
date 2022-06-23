@@ -213,9 +213,9 @@ tablist:
     link : "abstracts/poster/Verena_A._Neufeld.pdf"
 
   - poster : "42"
-    presenter : "Xuechen Xheng"
+    presenter : "Xuechen Zheng"
     title : "Relativistic Coupled-Cluster Techniques for Calculation of X-ray Spectroscopy"
-    link : "abstracts/poster/Xuechen_Xheng.pdf"
+    link : "abstracts/poster/Xuechen_Zheng.pdf"
 
   - poster : "43"
     presenter : "Yi-Fan Yang"
