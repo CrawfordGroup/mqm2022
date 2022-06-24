@@ -450,6 +450,11 @@ tablist:
     title : "Low-Order Scaling Electronic Structure Methods for Non-Covalent Interactions in Psi4"
     link : "abstracts/poster/Zachary_Glick.pdf"
 
+  - poster : "44"
+    presenter : "Ruiheng Song"
+    title : "A Power Series Approximation in Symmetry Projected Coupled Cluster Theory"
+    link : "abstracts/poster/Ruiheng_Song.pdf"
+
 - name : "Poster Session 3"
   date : "Wednesday<br/>29 June 2022<br/>7:00 PM - 9:00 PM<br/>The Inn at Virginia Tech"
   tablist_items:
