@@ -116,7 +116,7 @@ tablist:
 
     - time : "4:45 PM - 5:00 PM"
       speaker : "Carol Parish"
-      title : "MINDING THE GAP - HIGHLY CORRELATED MULTIREFERENCE STUDIES OF AROMATIC POLYRADICALS"
+      title : "Minding the Gap - Highly Correlated Multireference Studies of Aromatic Polyradicals"
       link : "abstracts/lecture/Carol_Parish.pdf"
 
   - time : "6:00 PM - 7:00 PM"
