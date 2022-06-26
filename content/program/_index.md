@@ -62,8 +62,11 @@ tablist:
 - name : "Day 4"
   date : "Wednesday<br/>29 June 2022"
   tablist_items:
-  - time : "9:00 AM - 12:30 PM"
+  - time : "9:00 AM - 12:00 PM"
     event : "Lectures"
+    venue : "Goodwin Hall"
+  - time : "12:00 PM - 12:30 PM"
+    event : "Conference Photo"
     venue : "Goodwin Hall"
   - time : "12:30 PM - 2:00 PM"
     event : "Lunch"

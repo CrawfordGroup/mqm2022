@@ -247,20 +247,18 @@ tablist:
       speaker : "Break"
 
     - time : "11:00 AM - 11:30 AM"
-      speaker : "Timothy J. Lee"
-      title : "Closed-Shell Coupled Cluster, Excited Electronic States, and Quantum Chemistry Applied to Astrochemistry"
-      link : "abstracts/lecture/Timothy_J._Lee.pdf"
-
-    - time : "11:30 AM - 12:00 PM"
       speaker : "Eugene DePrince"
       title : "Ab initio cavity quantum electrodynamics"
       link : "abstracts/lecture/Eugene_DePrince.pdf"
 
-    - time : "12:00 PM - 12:30 PM"
+    - time : "11:30 AM - 12:00 PM"
       speaker : "Piotr Piecuch"
       title : "Recent Advances in Externally Corrected Coupled-Cluster Methods"
       link : "abstracts/lecture/Piotr_Piecuch.pdf"
 
+  - time : "12:00 PM - 12:30 PM"
+    event : "Conference Photo"
+    venue : "Goodwin Hall"
   - time : "12:30 PM - 2:00 PM"
     event : "Lunch"
     venue : "Blacksburg Area"
