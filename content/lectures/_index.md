@@ -140,34 +140,29 @@ tablist:
       link : "abstracts/lecture/Frank_Neese.pdf"
 
     - time : "9:30 AM - 10:00 AM"
-      speaker : "Julia E Rice"
-      title : "Challenges in using quantum computers to achieve accurate results"
-      link : "abstracts/lecture/Julia_E_Rice.pdf"
-
-    - time : "10:00 AM - 10:30 AM"
       speaker : "Kenneth Ruud"
       title : "X-ray spectroscopy from 2- and 4-component relativistic damped linear response theory"
       link : "abstracts/lecture/Kenneth_Ruud.pdf"
 
-    - time : "10:30 AM - 11:00 AM"
+    - time : "10:00 AM - 10:30 AM"
       speaker : "Break"
 
-    - time : "11:00 AM - 11:30 AM"
+    - time : "10:30 AM - 11:00 AM"
       speaker : "Krishnan Raghavachari"
       title : "Martin Head-Gordon and Gustavo Scuseria: The Scientists and their Science"
       link : "abstracts/lecture/Krishnan_Raghavachari.pdf"
 
-    - time : "11:30 AM - 12:00 PM"
+    - time : "11:00 AM - 11:30 AM"
       speaker : "Jochen Autschbach"
       title : "Open-Shell Systems & Relativistic Effects"
       link : "abstracts/lecture/Jochen_Autschbach.pdf"
 
-    - time : "12:00 PM - 12:30 PM"
+    - time : "11:30 AM - 12:00 PM"
       speaker : "Nick Mayhall"
       title : "Fast state preparation for variational quantum algorithms to outrace decoherence on near term quantum computers"
       link : "abstracts/lecture/Nick_Mayhall.pdf"
 
-  - time : "12:30 PM - 2:00 PM"
+  - time : "12:00 PM - 2:00 PM"
     event : "Lunch"
     venue : "Blacksburg Area"
   - time : "2:00 PM - 6:00 PM"
