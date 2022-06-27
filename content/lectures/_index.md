@@ -119,7 +119,7 @@ tablist:
       title : "Minding the Gap - Highly Correlated Multireference Studies of Aromatic Polyradicals"
       link : "abstracts/lecture/Carol_Parish.pdf"
 
-  - time : "6:00 PM - 7:00 PM"
+  - time : "5:00 PM - 7:00 PM"
     event : "Dinner"
     venue : "Blacksburg Area"
   - time : "7:00 PM - 9:00 PM"
@@ -208,7 +208,7 @@ tablist:
       title : "Generalized Kato conditions to correct models with long-range interaction"
       link : "abstracts/lecture/Andreas_Savin.pdf"
 
-  - time : "6:00 PM - 7:00 PM"
+  - time : "5:30 PM - 7:00 PM"
     event : "Dinner"
     venue : "Blacksburg Area"
   - time : "7:00 PM - 9:00 PM"
@@ -300,7 +300,7 @@ tablist:
       title : "Exploring short-range DFT energy corrections to multiconfigurational wave functions"
       link : "abstracts/lecture/David_Casanova.pdf"
 
-  - time : "6:00 PM - 7:00 PM"
+  - time : "5:30 PM - 7:00 PM"
     event : "Dinner"
     venue : "Blacksburg Area"
   - time : "7:00 PM - 9:00 PM"
@@ -384,6 +384,10 @@ tablist:
       speaker : "Martin Head-Gordon"
       title : "Density functional theory for simulating core spectroscopy: Problems, solutions and applications."
       link : "abstracts/lecture/Martin_Head-Gordon.pdf"
+
+    - time : "5:00 PM - 5:15 PM"
+      speaker : "Hiromi Nakai"
+      title : "Announcement of MQM 2025"
 
   - time : "7:00 PM - 10:00 PM"
     event : "Conference Banquet"
