@@ -389,6 +389,10 @@ tablist:
       speaker : "Hiromi Nakai"
       title : "Announcement of MQM 2025"
 
+    - time : "5:45 PM"
+      speaker : "Buses Depart for Banquet"
+      title : "Inn at Virginia Tech"
+
   - time : "7:00 PM - 10:00 PM"
     event : "Conference Banquet"
     venue : "The Taubman Museum of Art, Roanoke"
@@ -396,9 +400,9 @@ tablist:
 - name : "Day 6"
   date : "Friday<br/>1 July 2022"
   tablist_items:
-  - time : "10:00 AM - 11:00 AM"
-    event : "Institute Tour (Optional)"
-    venue : "Molecular Science Software Institute"
+  - time : "9:00 AM - 5:00 PM"
+    event : "No Scheduled Events"
+    venue : "N/A"
 
 ---
 ## MQM 2022 Detailed Program

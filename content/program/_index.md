@@ -93,6 +93,9 @@ tablist:
   - time : "2:00 PM - 5:15 PM"
     event : "Lectures"
     venue : "Goodwin Hall"
+  - time : "5:45 PM"
+    event : "Buses Depart for Banquet"
+    venue: "Inn at Virginia Tech"
   - time : "7:00 PM - 10:00 PM"
     event : "Conference Banquet"
     venue : "The Taubman Museum of Art, Roanoke"
@@ -100,9 +103,9 @@ tablist:
 - name : "Day 6"
   date : "Friday<br/>1 July 2022"
   tablist_items:
-  - time : "10:00 AM - 11:00 AM"
-    event : "Institute Tour (Optional)"
-    venue : "Molecular Science Software Institute"
+  - time : "9:00 AM - 5:00 PM"
+    event : "No Scheduled Events"
+    venue : "N/A"
 
 ---
 ## MQM 2022 Program Overview
