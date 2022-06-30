@@ -5,7 +5,7 @@ banner:
   heading_2 : "Virginia Tech, Blacksburg, Virginia, U.S.A.<br>
   June 26th - July 1st, 2022"
   timer:
-    enable : true
+    enable : false
     year : 2022
     month : 6
     day : 26
