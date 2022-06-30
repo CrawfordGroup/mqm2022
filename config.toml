@@ -105,7 +105,7 @@ weight = 4
 
 [[menu.main]]
 name = "Abstracts"
-url = "https://molssi.typeform.com/to/PNJxours"
+url = "#"
 weight = 5
 
 [[menu.main]]
@@ -169,7 +169,7 @@ preloader = "" # use jpg, png, svg or gif format.
 
 # Navigation button
 [params.navigation_button]
-enable = true
+enable = false
 label = "Register"
 icon = "images/icon/ticket.png"
 link = "registration"

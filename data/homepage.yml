@@ -10,7 +10,7 @@ banner:
     month : 6
     day : 26
   button:
-    enable : true
+    enable : false
     label : "Register"
     link : "registration"
 
