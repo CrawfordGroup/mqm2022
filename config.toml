@@ -70,15 +70,21 @@ name = "Home"
 url = "/"
 weight = 1
 
+# main menu
+[[menu.main]]
+name = "Gallery"
+url = "gallery"
+weight = 2
+
 [[menu.main]]
 name = "Speakers"
 url = "speaker"
-weight = 2
+weight = 3
 
 [[menu.main]]
 name = "Program"
 hasChildren = true
-weight = 3
+weight = 4
 
   [[menu.main]]
   parent = "Program"
@@ -101,17 +107,17 @@ weight = 3
 [[menu.main]]
 name = "Registration"
 url = "registration"
-weight = 4
+weight = 5
 
 [[menu.main]]
 name = "Abstracts"
 url = "#"
-weight = 5
+weight = 6
 
 [[menu.main]]
 name = "More Info"
 hasChildren = true
-weight = 6
+weight = 7
 
   [[menu.main]]
   parent = "More Info"
