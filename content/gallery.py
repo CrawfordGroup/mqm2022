@@ -29,6 +29,6 @@ piclist = [
 for i in piclist:
   print("- name : \"MQM Conference Photos\"")
   print(f"  image : \"images/gallery/{i}\"")
-  print("  categories : [\"Conference Photos\"]")
+  print("  categories : [\"Conference Photos\", \"Banquet\"]")
 
 print("---")

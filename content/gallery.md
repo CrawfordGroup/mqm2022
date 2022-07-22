@@ -205,47 +205,47 @@ gallery_items:
   categories : ["Conference Photos"]
 - name : "MQM Conference Photos"
   image : "images/gallery/IMG_5459.JPG"
-  categories : ["Conference Photos"]
+  categories : ["Conference Photos", "Banquet"]
 - name : "MQM Conference Photos"
   image : "images/gallery/IMG_5472.JPG"
-  categories : ["Conference Photos"]
+  categories : ["Conference Photos", "Banquet"]
 - name : "MQM Conference Photos"
   image : "images/gallery/IMG_5473.JPG"
-  categories : ["Conference Photos"]
+  categories : ["Conference Photos", "Banquet"]
 - name : "MQM Conference Photos"
   image : "images/gallery/IMG_5486.JPG"
-  categories : ["Conference Photos"]
+  categories : ["Conference Photos", "Banquet"]
 - name : "MQM Conference Photos"
   image : "images/gallery/IMG_5490.JPG"
-  categories : ["Conference Photos"]
+  categories : ["Conference Photos", "Banquet"]
 - name : "MQM Conference Photos"
   image : "images/gallery/IMG_5491.JPG"
-  categories : ["Conference Photos"]
+  categories : ["Conference Photos", "Banquet"]
 - name : "MQM Conference Photos"
   image : "images/gallery/IMG_5495.JPG"
-  categories : ["Conference Photos"]
+  categories : ["Conference Photos", "Banquet"]
 - name : "MQM Conference Photos"
   image : "images/gallery/IMG_5501.JPG"
-  categories : ["Conference Photos"]
+  categories : ["Conference Photos", "Banquet"]
 - name : "MQM Conference Photos"
   image : "images/gallery/IMG_5505.JPG"
-  categories : ["Conference Photos"]
+  categories : ["Conference Photos", "Banquet"]
 - name : "MQM Conference Photos"
   image : "images/gallery/IMG_5509.JPG"
-  categories : ["Conference Photos"]
+  categories : ["Conference Photos", "Banquet"]
 - name : "MQM Conference Photos"
   image : "images/gallery/IMG_5521.JPG"
-  categories : ["Conference Photos"]
+  categories : ["Conference Photos", "Banquet"]
 - name : "MQM Conference Photos"
   image : "images/gallery/IMG_5522.JPG"
-  categories : ["Conference Photos"]
+  categories : ["Conference Photos", "Banquet"]
 - name : "MQM Conference Photos"
   image : "images/gallery/IMG_5524.JPG"
-  categories : ["Conference Photos"]
+  categories : ["Conference Photos", "Banquet"]
 - name : "MQM Conference Photos"
   image : "images/gallery/IMG_5526.JPG"
-  categories : ["Conference Photos"]
+  categories : ["Conference Photos", "Banquet"]
 - name : "MQM Conference Photos"
   image : "images/gallery/IMG_5528.JPG"
-  categories : ["Conference Photos"]
+  categories : ["Conference Photos", "Banquet"]
 ---
